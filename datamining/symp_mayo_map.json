@@ -1,0 +1,9555 @@
+[
+    {
+        "Autoimmune pancreatitis": [
+            "pain",
+            "weakness",
+            "weight loss",
+            "tiredness",
+            "loss of appetite",
+            "nausea",
+            "jaundice",
+            "vomiting",
+            "dark urine"
+        ]
+    },
+    {
+        "Autoimmune hepatitis": [
+            "hepatitis",
+            "joint pain",
+            "pain",
+            "abdominal discomfort",
+            "rash",
+            "jaundice",
+            "fatigue"
+        ]
+    },
+    {
+        "Autonomic neuropathy": [
+            "loss of appetite",
+            "bloating",
+            "nausea",
+            "diarrhea",
+            "dizziness",
+            "vomiting",
+            "constipation",
+            "blood pressure"
+        ]
+    },
+    {
+        "Bursitis": []
+    },
+    {
+        "Knee bursitis": [
+            "inflammation",
+            "pain"
+        ]
+    },
+    {
+        "Jock itch": [
+            "blister",
+            "rash"
+        ]
+    },
+    {
+        "Eye floaters": []
+    },
+    {
+        "Jellyfish stings": [
+            "confusion",
+            "pain",
+            "nausea",
+            "headache",
+            "dizziness",
+            "vomiting",
+            "muscle pain"
+        ]
+    },
+    {
+        "Patellar tendinitis": [
+            "pain"
+        ]
+    },
+    {
+        "Jet lag disorder": [
+            "diarrhea",
+            "fatigue",
+            "constipation"
+        ]
+    },
+    {
+        "Eyestrain": [
+            "photophobia",
+            "double vision",
+            "itching",
+            "headache"
+        ]
+    },
+    {
+        "Osteoporosis": [
+            "pain",
+            "loss of height"
+        ]
+    },
+    {
+        "Myoclonus": [
+            "shock",
+            "shakes"
+        ]
+    },
+    {
+        "Ewing sarcoma": [
+            "pain",
+            "tiredness",
+            "coma",
+            "fever",
+            "bone pain"
+        ]
+    },
+    {
+        "Myocarditis": [
+            "joint pain",
+            "myocarditis",
+            "pain",
+            "body ache",
+            "arrhythmia",
+            "headache",
+            "chest pain",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Myofascial pain syndrome": [
+            "pain"
+        ]
+    },
+    {
+        "Myelodysplastic syndromes": [
+            "bleeding",
+            "thrombocytopenia",
+            "anemia",
+            "rash",
+            "pallor",
+            "cytopenia",
+            "petechiae",
+            "fatigue",
+            "low white blood cell count"
+        ]
+    },
+    {
+        "Esthesioneuroblastoma": [
+            "pain",
+            "loss of vision",
+            "headache"
+        ]
+    },
+    {
+        "Osteochondritis dissecans": [
+            "pain",
+            "weakness"
+        ]
+    },
+    {
+        "Osteosarcoma": [
+            "joint pain",
+            "pain",
+            "coma"
+        ]
+    },
+    {
+        "Ovarian hyperstimulation syndrome": [
+            "pain",
+            "weight gain",
+            "bloating",
+            "abdominal pain",
+            "nausea",
+            "diarrhea",
+            "vomiting"
+        ]
+    },
+    {
+        "Optic neuritis": [
+            "pain"
+        ]
+    },
+    {
+        "Ocular rosacea": [
+            "blurred vision",
+            "conjunctivitis",
+            "photophobia"
+        ]
+    },
+    {
+        "Obesity": [
+            "weight loss",
+            "underweight",
+            "overweight"
+        ]
+    },
+    {
+        "Pyoderma gangrenosum": [
+            "pain"
+        ]
+    },
+    {
+        "Orchitis": [
+            "pain",
+            "nausea",
+            "fever",
+            "vomiting",
+            "malaise"
+        ]
+    },
+    {
+        "Oppositional defiant disorder (ODD)": [
+            "behavioral symptom"
+        ]
+    },
+    {
+        "Obstructive sleep apnea": [
+            "depression",
+            "dry mouth",
+            "headache",
+            "sleep apnea",
+            "apnea",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Obsessive-compulsive disorder (OCD)": [
+            "anxiety",
+            "repetitive behavior"
+        ]
+    },
+    {
+        "Pulmonary atresia": [
+            "cyanosis",
+            "fatigue",
+            "feeding problem"
+        ]
+    },
+    {
+        "Pyloric stenosis": [
+            "dehydration",
+            "weight loss",
+            "vomiting"
+        ]
+    },
+    {
+        "Pulmonary valve stenosis": [
+            "pain",
+            "chest pain",
+            "fatigue"
+        ]
+    },
+    {
+        "Overactive bladder": [
+            "nocturia"
+        ]
+    },
+    {
+        "Prolactinoma": [
+            "pain",
+            "headache",
+            "discharge",
+            "infertility"
+        ]
+    },
+    {
+        "Prostatitis": [
+            "pain",
+            "muscle ache",
+            "dysuria",
+            "nocturia",
+            "fever",
+            "chills"
+        ]
+    },
+    {
+        "Psoriasis": [
+            "blister",
+            "hyperpigmentation",
+            "itching",
+            "rash"
+        ]
+    },
+    {
+        "Pseudogout": [
+            "pain"
+        ]
+    },
+    {
+        "Primary immunodeficiency": [
+            "inflammation",
+            "anemia",
+            "loss of appetite",
+            "bronchitis",
+            "nausea",
+            "diarrhea",
+            "cramp",
+            "arthritis",
+            "meningitis"
+        ]
+    },
+    {
+        "Pseudocholinesterase deficiency": [
+            "paralysis"
+        ]
+    },
+    {
+        "Presbyopia": [
+            "blurred vision",
+            "headache"
+        ]
+    },
+    {
+        "Prescription drug abuse": [
+            "confusion",
+            "drowsiness",
+            "pain",
+            "slurred speech",
+            "anxiety",
+            "nausea",
+            "insomnia",
+            "dizziness",
+            "constipation",
+            "hyperactivity",
+            "agitation",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Premenstrual syndrome (PMS)": [
+            "depression",
+            "pain",
+            "weight gain",
+            "anxiety",
+            "bloating",
+            "headache",
+            "diarrhea",
+            "insomnia",
+            "irritability",
+            "muscle pain",
+            "fatigue",
+            "constipation"
+        ]
+    },
+    {
+        "Primary ovarian insufficiency": [
+            "depression",
+            "night sweats",
+            "anxiety"
+        ]
+    },
+    {
+        "Premature ejaculation": []
+    },
+    {
+        "Progressive supranuclear palsy": [
+            "depression",
+            "double vision",
+            "loss of balance",
+            "slurred speech",
+            "anxiety",
+            "sleep disturbance",
+            "dizziness"
+        ]
+    },
+    {
+        "Premature birth": [
+            "feeding problem"
+        ]
+    },
+    {
+        "Wolff-Parkinson-White (WPW) syndrome": [
+            "pain",
+            "atrial fibrillation",
+            "arrhythmia",
+            "anxiety",
+            "pallor",
+            "tachycardia",
+            "palpitation",
+            "cyanosis",
+            "chest pain",
+            "dizziness",
+            "irritability",
+            "ventricular tachycardia",
+            "fatigue",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Prader-Willi syndrome": [
+            "pain",
+            "weak cry",
+            "weight gain",
+            "anxiety",
+            "failure to thrive",
+            "sleep apnea",
+            "apnea",
+            "infertility",
+            "repetitive behavior"
+        ]
+    },
+    {
+        "Proctitis": [
+            "bleeding",
+            "pain",
+            "diarrhea"
+        ]
+    },
+    {
+        "Pouchitis": [
+            "joint pain",
+            "pain",
+            "abdominal pain",
+            "diarrhea",
+            "fever",
+            "cramp"
+        ]
+    },
+    {
+        "Orthostatic hypotension (postural hypotension)": [
+            "confusion",
+            "hypotension",
+            "weakness",
+            "syncope",
+            "dizziness",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Post-traumatic stress disorder (PTSD)": [
+            "irritability",
+            "aggressive behavior"
+        ]
+    },
+    {
+        "Post-polio syndrome": [
+            "pain",
+            "weakness",
+            "sleep apnea",
+            "apnea",
+            "fatigue"
+        ]
+    },
+    {
+        "Primary biliary cholangitis": [
+            "hyperpigmentation",
+            "pain",
+            "steatorrhea",
+            "weight loss",
+            "ascites",
+            "splenomegaly",
+            "edema",
+            "jaundice",
+            "diarrhea",
+            "fatigue"
+        ]
+    },
+    {
+        "Preterm labor": [
+            "abdominal cramp",
+            "backache",
+            "bleeding",
+            "vaginal discharge",
+            "discharge",
+            "cramp"
+        ]
+    },
+    {
+        "Post-vasectomy pain syndrome": [
+            "pain"
+        ]
+    },
+    {
+        "Postpartum preeclampsia": [
+            "blurred vision",
+            "pain",
+            "severe headache",
+            "loss of vision",
+            "proteinuria",
+            "nausea",
+            "headache",
+            "vomiting",
+            "light sensitivity",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Porphyria": [
+            "blister",
+            "confusion",
+            "paralysis",
+            "pain",
+            "seizure",
+            "weakness",
+            "anxiety",
+            "itching",
+            "nausea",
+            "nervous system symptom",
+            "palpitation",
+            "hallucination",
+            "breathing problems",
+            "vomiting",
+            "muscle pain",
+            "constipation",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Posterior vaginal prolapse (rectocele)": []
+    },
+    {
+        "Posterior cortical atrophy": [
+            "confusion",
+            "anxiety"
+        ]
+    },
+    {
+        "Polymyositis": [
+            "muscle weakness",
+            "weakness"
+        ]
+    },
+    {
+        "Polymyalgia rheumatica": [
+            "depression",
+            "pain",
+            "weight loss",
+            "loss of appetite",
+            "fever",
+            "mild fever",
+            "malaise",
+            "fatigue"
+        ]
+    },
+    {
+        "Stomach polyps": [
+            "pain",
+            "anemia",
+            "nausea"
+        ]
+    },
+    {
+        "Polycythemia vera": [
+            "bleeding",
+            "blurred vision",
+            "pain",
+            "weakness",
+            "bloating",
+            "headache",
+            "dizziness",
+            "fatigue"
+        ]
+    },
+    {
+        "Polymorphous light eruption": [
+            "blister",
+            "inflammation",
+            "pain",
+            "itching",
+            "rash",
+            "fever",
+            "chills"
+        ]
+    },
+    {
+        "Pneumonia": [
+            "confusion",
+            "pain",
+            "phlegm",
+            "nausea",
+            "diarrhea",
+            "chest pain",
+            "fever",
+            "cough",
+            "vomiting",
+            "chills",
+            "fatigue"
+        ]
+    },
+    {
+        "Polio": [
+            "paralysis",
+            "muscle weakness",
+            "pain",
+            "severe headache",
+            "wasting",
+            "weakness",
+            "loss of appetite",
+            "muscle ache",
+            "itching",
+            "nausea",
+            "headache",
+            "sleep apnea",
+            "apnea",
+            "fever",
+            "neck pain",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Poison ivy rash": [
+            "blister",
+            "itching",
+            "rash"
+        ]
+    },
+    {
+        "Polyhydramnios": []
+    },
+    {
+        "Pneumonitis": [
+            "dry cough",
+            "weight loss",
+            "loss of appetite",
+            "pneumonitis",
+            "cough",
+            "fatigue"
+        ]
+    },
+    {
+        "Primary lateral sclerosis (PLS)": [
+            "spasticity",
+            "weakness",
+            "hoarse voice",
+            "slurred speech",
+            "breathing problems"
+        ]
+    },
+    {
+        "Plantar warts": [
+            "pain"
+        ]
+    },
+    {
+        "Pleurisy": [
+            "pain",
+            "pleural effusion",
+            "chest pain",
+            "fever",
+            "cough"
+        ]
+    },
+    {
+        "Placental abruption": [
+            "bleeding",
+            "pain",
+            "abdominal pain"
+        ]
+    },
+    {
+        "Plague": [
+            "bleeding",
+            "pain",
+            "seizure",
+            "weakness",
+            "bubo",
+            "tiredness",
+            "muscle ache",
+            "shock",
+            "rash",
+            "headache",
+            "diarrhea",
+            "chest pain",
+            "gangrene",
+            "fever",
+            "cough",
+            "low blood pressure",
+            "high fever",
+            "vomiting",
+            "chills",
+            "blood pressure"
+        ]
+    },
+    {
+        "Placenta previa": [
+            "bleeding",
+            "pain"
+        ]
+    },
+    {
+        "Placenta accreta": [
+            "bleeding"
+        ]
+    },
+    {
+        "Polycystic kidney disease": [
+            "pain",
+            "headache",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Pituitary tumors": [
+            "joint pain",
+            "muscle weakness",
+            "pain",
+            "seizure",
+            "tremor",
+            "weakness",
+            "weight loss",
+            "tiredness",
+            "double vision",
+            "weight gain",
+            "bruise",
+            "anxiety",
+            "nausea",
+            "headache",
+            "discharge",
+            "irritability",
+            "vomiting"
+        ]
+    },
+    {
+        "Pinched nerve": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "paresthesia"
+        ]
+    },
+    {
+        "Sacral dimple": [
+            "weakness"
+        ]
+    },
+    {
+        "Pheochromocytoma": [
+            "tremor",
+            "weight loss",
+            "anxiety",
+            "headache",
+            "pallor",
+            "constipation",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Thrombophlebitis": [
+            "pain",
+            "phlebitis"
+        ]
+    },
+    {
+        "Phenylketonuria (PKU)": [
+            "seizure",
+            "eczema",
+            "low birth weight",
+            "rash",
+            "hyperactivity"
+        ]
+    },
+    {
+        "Sore throat": [
+            "pain",
+            "sneezing",
+            "body ache",
+            "nausea",
+            "headache",
+            "fever",
+            "cough",
+            "vomiting"
+        ]
+    },
+    {
+        "Whooping cough": [
+            "congestion",
+            "extreme fatigue",
+            "fever",
+            "cough",
+            "nasal congestion",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Schizotypal personality disorder": [
+            "anxiety",
+            "hallucination"
+        ]
+    },
+    {
+        "Schizoid personality disorder": []
+    },
+    {
+        "Tinea versicolor": [
+            "itching"
+        ]
+    },
+    {
+        "Personality disorders": [
+            "anxiety"
+        ]
+    },
+    {
+        "Pinworm infection": [
+            "pain",
+            "itching",
+            "nausea",
+            "insomnia",
+            "irritability"
+        ]
+    },
+    {
+        "Pityriasis rosea": [
+            "itching",
+            "rash",
+            "headache",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Peripheral nerve injuries": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "muscle twitching",
+            "itching",
+            "cramp",
+            "blood pressure"
+        ]
+    },
+    {
+        "Persistent post-concussive symptoms (Post-concussion syndrome)": [
+            "anxiety",
+            "headache",
+            "dizziness",
+            "irritability",
+            "light sensitivity",
+            "fatigue"
+        ]
+    },
+    {
+        "Perimenopause": [
+            "depression",
+            "pain",
+            "night sweats",
+            "urinary incontinence",
+            "irritability"
+        ]
+    },
+    {
+        "Peritonitis": [
+            "confusion",
+            "pain",
+            "peritonitis",
+            "thirst",
+            "loss of appetite",
+            "bloating",
+            "diarrhea",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Peripheral nerve tumors": [
+            "pain",
+            "weakness",
+            "loss of balance",
+            "dizziness"
+        ]
+    },
+    {
+        "Pelvic inflammatory disease (PID)": [
+            "bleeding",
+            "pain",
+            "vaginal discharge",
+            "fever",
+            "discharge",
+            "chills"
+        ]
+    },
+    {
+        "Polycystic ovary syndrome (PCOS)": []
+    },
+    {
+        "Pediatric obstructive sleep apnea": [
+            "weight gain",
+            "sleep apnea",
+            "apnea",
+            "cough"
+        ]
+    },
+    {
+        "Peptic ulcer": [
+            "pain",
+            "weight loss",
+            "belching",
+            "bloating",
+            "nausea",
+            "vomiting"
+        ]
+    },
+    {
+        "Pseudobulbar affect": [
+            "depression",
+            "loss of appetite",
+            "sleep disturbance"
+        ]
+    },
+    {
+        "Patent ductus arteriosus (PDA)": [
+            "heart failure"
+        ]
+    },
+    {
+        "Patellofemoral pain syndrome": [
+            "pain",
+            "knee pain"
+        ]
+    },
+    {
+        "Pemphigus": [
+            "blister",
+            "pain"
+        ]
+    },
+    {
+        "Uterine prolapse": []
+    },
+    {
+        "Parkinson's disease": [
+            "pain",
+            "tremor",
+            "bradykinesia"
+        ]
+    },
+    {
+        "Panic attacks and panic disorder": [
+            "abdominal cramp",
+            "pain",
+            "nausea",
+            "headache",
+            "chest pain",
+            "dizziness",
+            "cramp",
+            "chills",
+            "fatigue",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Paget's disease of bone": [
+            "pain",
+            "headache",
+            "hip pain",
+            "arthritis",
+            "bone pain"
+        ]
+    },
+    {
+        "Paget's disease of the breast": [
+            "eczema",
+            "itching",
+            "discharge"
+        ]
+    },
+    {
+        "Peripheral artery disease (PAD)": [
+            "pain",
+            "weakness",
+            "claudication",
+            "hair loss",
+            "cramp",
+            "muscle pain"
+        ]
+    },
+    {
+        "Wrist pain": [
+            "pain",
+            "toothache",
+            "arthritis"
+        ]
+    },
+    {
+        "Popliteal artery entrapment syndrome": [
+            "pain",
+            "leg cramp",
+            "cramp"
+        ]
+    },
+    {
+        "Congenital heart disease in adults": []
+    },
+    {
+        "Multiple endocrine neoplasia, type 1 (MEN 1)": [
+            "pain",
+            "tiredness",
+            "bone pain"
+        ]
+    },
+    {
+        "Multiple system atrophy (MSA)": [
+            "ataxia",
+            "hypotension",
+            "tremor",
+            "double vision",
+            "loss of balance",
+            "slurred speech",
+            "dysarthria",
+            "dysphagia",
+            "stridor",
+            "bradykinesia",
+            "low blood pressure",
+            "constipation",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Mosquito bites": [
+            "blister",
+            "pain",
+            "rash"
+        ]
+    },
+    {
+        "Morning sickness": [
+            "nausea",
+            "vomiting"
+        ]
+    },
+    {
+        "Mixed connective tissue disease": [
+            "joint pain",
+            "pain",
+            "rash",
+            "fever",
+            "mild fever",
+            "arthritis",
+            "fatigue"
+        ]
+    },
+    {
+        "Molluscum contagiosum": []
+    },
+    {
+        "Molar pregnancy": [
+            "bleeding",
+            "pain",
+            "nausea",
+            "vomiting",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Muscle strains": [
+            "muscle weakness",
+            "pain",
+            "weakness"
+        ]
+    },
+    {
+        "Multiple sclerosis": [
+            "pain",
+            "weakness",
+            "double vision",
+            "loss of vision",
+            "slurred speech",
+            "vertigo",
+            "shock",
+            "fatigue"
+        ]
+    },
+    {
+        "Mumps": [
+            "pain",
+            "tiredness",
+            "muscle ache",
+            "headache",
+            "fever"
+        ]
+    },
+    {
+        "Mittelschmerz": [
+            "bleeding",
+            "pain",
+            "abdominal pain",
+            "discharge",
+            "cramp"
+        ]
+    },
+    {
+        "Mitral valve stenosis": [
+            "pain",
+            "chest pain",
+            "dizziness",
+            "cough",
+            "fatigue",
+            "chest discomfort"
+        ]
+    },
+    {
+        "Mitral valve regurgitation": [
+            "arrhythmia",
+            "palpitation",
+            "fatigue"
+        ]
+    },
+    {
+        "Mitral valve disease": [
+            "fatigue"
+        ]
+    },
+    {
+        "Monoclonal gammopathy of undetermined significance (MGUS)": [
+            "rash"
+        ]
+    },
+    {
+        "Myasthenia gravis": [
+            "muscle weakness",
+            "weakness",
+            "asthenia",
+            "double vision",
+            "ptosis"
+        ]
+    },
+    {
+        "MRSA infection": [
+            "pain",
+            "fever",
+            "abscess",
+            "boil"
+        ]
+    },
+    {
+        "Salivary gland tumors": [
+            "muscle weakness",
+            "pain",
+            "weakness"
+        ]
+    },
+    {
+        "Microcephaly": []
+    },
+    {
+        "Miscarriage": [
+            "bleeding",
+            "pain",
+            "miscarriage",
+            "cramp"
+        ]
+    },
+    {
+        "Mild cognitive impairment (MCI)": [
+            "depression",
+            "anxiety"
+        ]
+    },
+    {
+        "Metatarsalgia": [
+            "pain"
+        ]
+    },
+    {
+        "Migraine with aura": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "nausea",
+            "headache",
+            "blind spot"
+        ]
+    },
+    {
+        "Stage 4 prostate cancer": [
+            "pain",
+            "tiredness"
+        ]
+    },
+    {
+        "Mesenteric ischemia": [
+            "pain",
+            "ischemia",
+            "nausea",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Menopause": [
+            "night sweats",
+            "weight gain",
+            "chills"
+        ]
+    },
+    {
+        "Meningioma": [
+            "seizure",
+            "weakness",
+            "headache",
+            "memory loss"
+        ]
+    },
+    {
+        "Torn meniscus": [
+            "pain"
+        ]
+    },
+    {
+        "Multiple endocrine neoplasia, type 2 (MEN 2)": [
+            "joint pain",
+            "pain",
+            "anxiety",
+            "headache",
+            "diarrhea",
+            "fatigue",
+            "constipation",
+            "hoarseness",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Metachromatic leukodystrophy": [
+            "blindness",
+            "paralysis",
+            "pain",
+            "seizure",
+            "hallucination"
+        ]
+    },
+    {
+        "Shin splints": [
+            "pain"
+        ]
+    },
+    {
+        "Melanoma": [
+            "bleeding",
+            "inflammation",
+            "pain",
+            "itching"
+        ]
+    },
+    {
+        "Medication overuse headaches": [
+            "pain",
+            "nausea",
+            "headache",
+            "irritability"
+        ]
+    },
+    {
+        "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)": [
+            "joint pain",
+            "pain",
+            "exhaustion",
+            "extreme exhaustion",
+            "headache",
+            "dizziness",
+            "fatigue"
+        ]
+    },
+    {
+        "Muscular dystrophy": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "muscle pain"
+        ]
+    },
+    {
+        "Mental illness": [
+            "pain",
+            "tiredness",
+            "headache",
+            "hallucination"
+        ]
+    },
+    {
+        "MCAD deficiency": [
+            "diarrhea",
+            "fever",
+            "high fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Marfan syndrome": []
+    },
+    {
+        "Meningitis": [
+            "confusion",
+            "seizure",
+            "severe headache",
+            "thirst",
+            "poor feeding",
+            "stiff neck",
+            "nausea",
+            "rash",
+            "headache",
+            "fever",
+            "high fever",
+            "vomiting",
+            "meningitis"
+        ]
+    },
+    {
+        "Meniere's disease": [
+            "tinnitus",
+            "vertigo",
+            "nausea"
+        ]
+    },
+    {
+        "Measles": [
+            "dry cough",
+            "conjunctivitis",
+            "inflamed eyes",
+            "rash",
+            "fever",
+            "cough"
+        ]
+    },
+    {
+        "Undifferentiated pleomorphic sarcoma": [
+            "pain",
+            "weight loss",
+            "loss of appetite",
+            "coma",
+            "fever",
+            "constipation"
+        ]
+    },
+    {
+        "Fuchs' dystrophy": [
+            "blister",
+            "blurred vision",
+            "pain"
+        ]
+    },
+    {
+        "Pectus excavatum": [
+            "pain",
+            "palpitation",
+            "chest pain",
+            "wheezing",
+            "dizziness",
+            "cough",
+            "fatigue"
+        ]
+    },
+    {
+        "Frostbite": [
+            "blister",
+            "pain",
+            "change in skin color"
+        ]
+    },
+    {
+        "Malignant hyperthermia": [
+            "hyperthermia"
+        ]
+    },
+    {
+        "Patent foramen ovale": []
+    },
+    {
+        "Stress fractures": [
+            "pain"
+        ]
+    },
+    {
+        "Mammary duct ectasia": [
+            "inflammation",
+            "fever",
+            "discharge"
+        ]
+    },
+    {
+        "Malaria": [
+            "joint pain",
+            "pain",
+            "abdominal pain",
+            "nausea",
+            "headache",
+            "diarrhea",
+            "fever",
+            "cough",
+            "high fever",
+            "vomiting",
+            "chills",
+            "fatigue"
+        ]
+    },
+    {
+        "Waldenstrom macroglobulinemia": [
+            "bleeding",
+            "confusion",
+            "weight loss",
+            "headache",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Lymphoma": [
+            "pain",
+            "weight loss",
+            "night sweats",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Lymphedema": [
+            "edema"
+        ]
+    },
+    {
+        "Lyme disease": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "tiredness",
+            "muscle ache",
+            "rash",
+            "headache",
+            "fever",
+            "neck pain",
+            "arthritis"
+        ]
+    },
+    {
+        "Swollen lymph nodes": [
+            "pain",
+            "night sweats",
+            "fever",
+            "arthritis"
+        ]
+    },
+    {
+        "Lupus nephritis": [
+            "nephritis",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Low sperm count": [
+            "pain"
+        ]
+    },
+    {
+        "Lupus": [
+            "confusion",
+            "joint pain",
+            "skin lesion",
+            "pain",
+            "rash",
+            "headache",
+            "memory loss",
+            "chest pain",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Thrombocytopenia (low platelet count)": [
+            "bleeding",
+            "thrombocytopenia",
+            "rash",
+            "cytopenia",
+            "petechiae",
+            "fatigue"
+        ]
+    },
+    {
+        "Functional dyspepsia": [
+            "pain",
+            "belching",
+            "bloating",
+            "dyspepsia",
+            "nausea"
+        ]
+    },
+    {
+        "Norovirus infection": [
+            "pain",
+            "nausea",
+            "diarrhea",
+            "fever",
+            "cramp",
+            "low-grade fever",
+            "vomiting",
+            "muscle pain"
+        ]
+    },
+    {
+        "Noonan syndrome": [
+            "bleeding",
+            "nystagmus",
+            "weight gain",
+            "edema"
+        ]
+    },
+    {
+        "Male hypogonadism": [
+            "depression",
+            "coma",
+            "infertility"
+        ]
+    },
+    {
+        "Nonallergic rhinitis": [
+            "sneezing",
+            "fever",
+            "cough"
+        ]
+    },
+    {
+        "Moles": [
+            "bleeding"
+        ]
+    },
+    {
+        "Peripheral neuropathy": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "dizziness",
+            "lightheadedness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Nightmare disorder": [
+            "anxiety",
+            "sleep disturbance",
+            "sweaty",
+            "fatigue"
+        ]
+    },
+    {
+        "Neurofibromatosis": [
+            "pain",
+            "seizure",
+            "weakness",
+            "headache",
+            "short stature",
+            "chronic pain",
+            "hyperactivity"
+        ]
+    },
+    {
+        "Malignant peripheral nerve sheath tumors": [
+            "pain",
+            "weakness"
+        ]
+    },
+    {
+        "Nonalcoholic fatty liver disease": [
+            "pain",
+            "abdominal swelling",
+            "ascites",
+            "jaundice",
+            "malaise",
+            "fatigue"
+        ]
+    },
+    {
+        "Niemann-Pick": [
+            "sleep disturbance"
+        ]
+    },
+    {
+        "Neuroendocrine tumors": [
+            "pain",
+            "thirst",
+            "rash",
+            "flushing",
+            "diarrhea",
+            "dizziness"
+        ]
+    },
+    {
+        "Morton's neuroma": [
+            "pain"
+        ]
+    },
+    {
+        "Vasovagal syncope": [
+            "blurred vision",
+            "dilated pupil",
+            "syncope",
+            "nausea",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Postherpetic neuralgia": [
+            "pain",
+            "itching",
+            "rash"
+        ]
+    },
+    {
+        "Nephrogenic systemic fibrosis": [
+            "blister",
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "itching",
+            "bone pain",
+            "contracture"
+        ]
+    },
+    {
+        "Nearsightedness": [
+            "headache"
+        ]
+    },
+    {
+        "Nasal polyps": [
+            "inflammation",
+            "pain",
+            "sinusitis",
+            "headache"
+        ]
+    },
+    {
+        "Trigeminal neuralgia": [
+            "pain",
+            "shock"
+        ]
+    },
+    {
+        "Nephrotic syndrome": [
+            "loss of appetite",
+            "weight gain",
+            "edema",
+            "fatigue"
+        ]
+    },
+    {
+        "Neck pain": [
+            "pain",
+            "headache",
+            "muscle tightness"
+        ]
+    },
+    {
+        "Nasal and paranasal tumors": [
+            "pain",
+            "headache",
+            "discharge"
+        ]
+    },
+    {
+        "Floor of the mouth cancer": [
+            "pain",
+            "weight loss"
+        ]
+    },
+    {
+        "Pericardial effusion": [
+            "pain",
+            "chest pain",
+            "pericardial effusion",
+            "dyspnea",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Fibromyalgia": [
+            "depression",
+            "pain",
+            "anxiety",
+            "headache",
+            "tachycardia",
+            "sleep apnea",
+            "apnea",
+            "fatigue"
+        ]
+    },
+    {
+        "Pulmonary fibrosis": [
+            "dry cough",
+            "weight loss",
+            "cough",
+            "dyspnea",
+            "fatigue"
+        ]
+    },
+    {
+        "Food poisoning": [
+            "pain",
+            "weakness",
+            "bloody stool",
+            "double vision",
+            "headache",
+            "diarrhea",
+            "fever",
+            "cramp",
+            "vomiting"
+        ]
+    },
+    {
+        "Narcissistic personality disorder": []
+    },
+    {
+        "Uterine fibroids": [
+            "bleeding",
+            "pain",
+            "constipation"
+        ]
+    },
+    {
+        "Fibrocystic breasts": [
+            "pain",
+            "discharge"
+        ]
+    },
+    {
+        "Fibroadenoma": [
+            "pain"
+        ]
+    },
+    {
+        "Fever": [
+            "dehydration",
+            "weakness",
+            "loss of appetite",
+            "muscle ache",
+            "headache",
+            "fever",
+            "irritability",
+            "chills"
+        ]
+    },
+    {
+        "Female sexual dysfunction": [
+            "pain"
+        ]
+    },
+    {
+        "Familial adenomatous polyposis": [
+            "anemia"
+        ]
+    },
+    {
+        "Febrile seizure": [
+            "seizure",
+            "fever",
+            "shakes"
+        ]
+    },
+    {
+        "Familial Mediterranean fever": [
+            "inflammation",
+            "pain",
+            "muscle ache",
+            "abdominal pain",
+            "rash",
+            "chest pain",
+            "fever"
+        ]
+    },
+    {
+        "Flatfeet": [
+            "pain"
+        ]
+    },
+    {
+        "Factor V Leiden": [
+            "pain",
+            "sputum",
+            "chest pain",
+            "cough"
+        ]
+    },
+    {
+        "Factitious disorder": [
+            "pain",
+            "seizure"
+        ]
+    },
+    {
+        "Fibromuscular dysplasia": [
+            "pain",
+            "tinnitus",
+            "headache",
+            "dizziness",
+            "neck pain",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Fetal macrosomia": []
+    },
+    {
+        "Fetal alcohol syndrome": [
+            "itching",
+            "hyperactivity"
+        ]
+    },
+    {
+        "Morphea": []
+    },
+    {
+        "Liver disease": [
+            "pain",
+            "loss of appetite",
+            "bruise",
+            "abdominal pain",
+            "nausea",
+            "jaundice",
+            "vomiting",
+            "fatigue",
+            "dark urine"
+        ]
+    },
+    {
+        "Tetanus": [
+            "pain",
+            "seizure",
+            "fever",
+            "low blood pressure",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Long QT syndrome": [
+            "blurred vision",
+            "seizure",
+            "weakness",
+            "syncope",
+            "palpitation",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Lip cancer": [
+            "pain"
+        ]
+    },
+    {
+        "Tetralogy of Fallot": [
+            "weight gain",
+            "cyanosis",
+            "irritability"
+        ]
+    },
+    {
+        "Listeria infection": [
+            "confusion",
+            "loss of balance",
+            "muscle ache",
+            "stiff neck",
+            "nausea",
+            "headache",
+            "diarrhea",
+            "convulsion",
+            "fever",
+            "irritability",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Oral lichen planus": [
+            "bleeding",
+            "blindness",
+            "inflammation",
+            "skin lesion",
+            "pain",
+            "hair loss"
+        ]
+    },
+    {
+        "Lichen planus": [
+            "pain",
+            "hair loss",
+            "rash"
+        ]
+    },
+    {
+        "Lice": [
+            "itching"
+        ]
+    },
+    {
+        "Lichen sclerosus": [
+            "bleeding",
+            "blister",
+            "pain",
+            "itching"
+        ]
+    },
+    {
+        "Legionnaires' disease": [
+            "confusion",
+            "pain",
+            "muscle ache",
+            "nausea",
+            "headache",
+            "diarrhea",
+            "chest pain",
+            "fever",
+            "cough",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Legg-Calve-Perthes disease": [
+            "pain"
+        ]
+    },
+    {
+        "Liposarcoma": [
+            "pain",
+            "weakness",
+            "abdominal pain",
+            "abdominal swelling",
+            "coma",
+            "constipation"
+        ]
+    },
+    {
+        "Left ventricular hypertrophy": [
+            "pain",
+            "palpitation",
+            "chest pain",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Lipoma": [
+            "pain"
+        ]
+    },
+    {
+        "Nail fungus": []
+    },
+    {
+        "Lobular carcinoma in situ (LCIS)": []
+    },
+    {
+        "Leukoplakia": [
+            "pain"
+        ]
+    },
+    {
+        "Lead poisoning": [
+            "pain",
+            "seizure",
+            "weight loss",
+            "miscarriage",
+            "loss of appetite",
+            "abdominal pain",
+            "headache",
+            "irritability",
+            "stillbirth",
+            "vomiting",
+            "muscle pain",
+            "fatigue",
+            "constipation",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Lactose intolerance": [
+            "bloating",
+            "nausea",
+            "diarrhea",
+            "cramp",
+            "vomiting"
+        ]
+    },
+    {
+        "Essential tremor": [
+            "tremor",
+            "fatigue"
+        ]
+    },
+    {
+        "Esophageal varices": [
+            "bleeding",
+            "bloody stool",
+            "ascites",
+            "jaundice",
+            "loss of consciousness",
+            "vomiting",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Esophagitis": [
+            "pain",
+            "failure to thrive",
+            "chest pain",
+            "irritability"
+        ]
+    },
+    {
+        "Esophageal spasms": [
+            "pain"
+        ]
+    },
+    {
+        "Periodontitis": [
+            "pain"
+        ]
+    },
+    {
+        "Epiglottitis": [
+            "pain",
+            "hoarse voice",
+            "stridor",
+            "fever"
+        ]
+    },
+    {
+        "Parvovirus infection": [
+            "rash",
+            "headache",
+            "fever"
+        ]
+    },
+    {
+        "Epididymitis": [
+            "inflammation",
+            "pain",
+            "epididymitis",
+            "fever",
+            "discharge"
+        ]
+    },
+    {
+        "Stevens-Johnson syndrome": [
+            "blister",
+            "pain",
+            "rash",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Epidermolysis bullosa": [
+            "blister",
+            "pain",
+            "hair loss"
+        ]
+    },
+    {
+        "Epilepsy": [
+            "confusion",
+            "seizure",
+            "focal seizure",
+            "generalized seizure",
+            "tonic-clonic seizure",
+            "epileptic seizure",
+            "simple partial seizure",
+            "complex partial seizure",
+            "myoclonic seizure",
+            "clonic seizure",
+            "tonic seizure",
+            "atonic seizure",
+            "loss of balance",
+            "anxiety",
+            "itching",
+            "hallucination",
+            "dizziness",
+            "loss of consciousness"
+        ]
+    },
+    {
+        "Frontal lobe seizures": [
+            "seizure"
+        ]
+    },
+    {
+        "Tennis elbow": [
+            "pain",
+            "weakness"
+        ]
+    },
+    {
+        "Eosinophilic esophagitis": [
+            "pain",
+            "weight loss",
+            "abdominal pain",
+            "failure to thrive",
+            "dysphagia",
+            "chest pain",
+            "vomiting"
+        ]
+    },
+    {
+        "Enlarged spleen (splenomegaly)": [
+            "bleeding",
+            "pain",
+            "anemia"
+        ]
+    },
+    {
+        "Endometriosis": [
+            "bleeding",
+            "pain",
+            "bloating",
+            "nausea",
+            "diarrhea",
+            "cramp",
+            "infertility",
+            "fatigue",
+            "constipation"
+        ]
+    },
+    {
+        "Uterine polyps": [
+            "bleeding",
+            "infertility"
+        ]
+    },
+    {
+        "Encopresis": [
+            "pain",
+            "abdominal pain",
+            "diarrhea",
+            "constipation"
+        ]
+    },
+    {
+        "Encephalitis": [
+            "confusion",
+            "encephalitis",
+            "muscle weakness",
+            "seizure",
+            "weakness",
+            "poor feeding",
+            "stiff neck",
+            "nausea",
+            "headache",
+            "memory loss",
+            "coma",
+            "hallucination",
+            "fever",
+            "irritability",
+            "loss of consciousness",
+            "vomiting",
+            "fatigue",
+            "agitation"
+        ]
+    },
+    {
+        "Pulmonary embolism": [
+            "pain",
+            "syncope",
+            "cyanosis",
+            "chest pain",
+            "dizziness",
+            "fever",
+            "cough",
+            "lightheadedness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Emphysema": []
+    },
+    {
+        "Elevated blood pressure": [
+            "blood pressure"
+        ]
+    },
+    {
+        "Eisenmenger syndrome": [
+            "pain",
+            "headache",
+            "palpitation",
+            "cyanosis",
+            "chest pain",
+            "dizziness",
+            "cough"
+        ]
+    },
+    {
+        "Enlarged breasts in men (gynecomastia)": [
+            "pain",
+            "coma"
+        ]
+    },
+    {
+        "Entropion": [
+            "pain",
+            "discharge",
+            "excessive tearing"
+        ]
+    },
+    {
+        "Endocarditis": [
+            "pain",
+            "weight loss",
+            "endocarditis",
+            "night sweats",
+            "chest pain",
+            "fever",
+            "petechiae",
+            "chills",
+            "fatigue"
+        ]
+    },
+    {
+        "End-stage renal disease": [
+            "pain",
+            "weakness",
+            "loss of appetite",
+            "itching",
+            "nausea",
+            "headache",
+            "chest pain",
+            "cramp",
+            "vomiting",
+            "fatigue",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Ehrlichiosis and anaplasmosis": [
+            "confusion",
+            "joint pain",
+            "pain",
+            "loss of appetite",
+            "nausea",
+            "rash",
+            "headache",
+            "diarrhea",
+            "fever",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Pulmonary edema": [
+            "dry cough",
+            "pain",
+            "weakness",
+            "weight gain",
+            "anxiety",
+            "sputum",
+            "headache",
+            "tachycardia",
+            "palpitation",
+            "edema",
+            "chest pain",
+            "wheezing",
+            "fever",
+            "cough",
+            "pulmonary edema",
+            "dyspnea",
+            "fatigue"
+        ]
+    },
+    {
+        "Ehlers-Danlos syndrome": [
+            "joint pain",
+            "pain",
+            "bruise",
+            "arthritis"
+        ]
+    },
+    {
+        "Ectropion": [
+            "excessive tearing"
+        ]
+    },
+    {
+        "Edema": [
+            "heart failure",
+            "edema"
+        ]
+    },
+    {
+        "Eating disorders": [
+            "weight loss",
+            "weight gain",
+            "anorexia",
+            "vomiting"
+        ]
+    },
+    {
+        "Ectopic pregnancy": [
+            "bleeding",
+            "pain",
+            "shoulder pain",
+            "shock",
+            "nausea",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Precocious puberty": []
+    },
+    {
+        "Ruptured eardrum (perforated eardrum)": [
+            "pain",
+            "tinnitus",
+            "vertigo",
+            "nausea",
+            "vomiting"
+        ]
+    },
+    {
+        "Ear infection (middle ear)": [
+            "pain",
+            "loss of appetite",
+            "loss of balance",
+            "headache",
+            "fever"
+        ]
+    },
+    {
+        "Group B strep disease": [
+            "confusion",
+            "pain",
+            "seizure",
+            "rash",
+            "jaundice",
+            "chest pain",
+            "fever",
+            "cough",
+            "irritability",
+            "chills"
+        ]
+    },
+    {
+        "Growth plate fractures": [
+            "pain"
+        ]
+    },
+    {
+        "Graves' disease": [
+            "inflammation",
+            "pain",
+            "tremor",
+            "weight loss",
+            "double vision",
+            "inflamed eyes",
+            "anxiety",
+            "palpitation",
+            "sleep disturbance",
+            "irritability",
+            "light sensitivity",
+            "fatigue"
+        ]
+    },
+    {
+        "Granulomatosis with polyangiitis": [
+            "inflammation",
+            "joint pain",
+            "pain",
+            "weight loss",
+            "phlegm",
+            "rash",
+            "wheezing",
+            "fever",
+            "cough",
+            "fatigue"
+        ]
+    },
+    {
+        "Premature ventricular contractions (PVCs)": []
+    },
+    {
+        "Ebstein anomaly": [
+            "fatigue"
+        ]
+    },
+    {
+        "Growing pains": [
+            "pain",
+            "weakness",
+            "loss of appetite",
+            "abdominal pain",
+            "rash",
+            "headache",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Swimmer's ear": [
+            "pain",
+            "ear symptom",
+            "itching",
+            "fever"
+        ]
+    },
+    {
+        "Glomerulonephritis": [
+            "hematuria",
+            "muscle cramp",
+            "nephritis",
+            "proteinuria",
+            "nausea",
+            "edema",
+            "cramp",
+            "vomiting",
+            "fatigue",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Granuloma annulare": [
+            "rash"
+        ]
+    },
+    {
+        "Glioma": [
+            "blurred vision",
+            "confusion",
+            "seizure",
+            "double vision",
+            "nausea",
+            "headache",
+            "memory loss",
+            "irritability",
+            "vomiting"
+        ]
+    },
+    {
+        "Gonorrhea": [
+            "bleeding",
+            "pain",
+            "vaginal discharge",
+            "itching",
+            "discharge",
+            "arthritis"
+        ]
+    },
+    {
+        "Goiter": [
+            "muscle weakness",
+            "tremor",
+            "weakness",
+            "weight loss",
+            "increased appetite",
+            "tachycardia",
+            "cough",
+            "irritability",
+            "fatigue",
+            "constipation",
+            "hoarseness",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Golfer's elbow": [
+            "pain",
+            "weakness"
+        ]
+    },
+    {
+        "Glaucoma": [
+            "blurred vision",
+            "pain",
+            "severe headache",
+            "nausea",
+            "headache",
+            "coma",
+            "vomiting",
+            "blind spot"
+        ]
+    },
+    {
+        "Gingivitis": []
+    },
+    {
+        "Gilbert syndrome": [
+            "dehydration"
+        ]
+    },
+    {
+        "Giardia infection (giardiasis)": [
+            "weight loss",
+            "bloating",
+            "nausea",
+            "diarrhea",
+            "cramp",
+            "fatigue"
+        ]
+    },
+    {
+        "Gender dysphoria": [
+            "depression",
+            "anxiety"
+        ]
+    },
+    {
+        "Rubella": [
+            "rash",
+            "headache",
+            "fever",
+            "mild fever"
+        ]
+    },
+    {
+        "Gaucher disease": [
+            "pain",
+            "seizure",
+            "anemia",
+            "fatigue"
+        ]
+    },
+    {
+        "Gastrointestinal bleeding": [
+            "bleeding",
+            "pain",
+            "weakness",
+            "shock",
+            "abdominal pain",
+            "nausea",
+            "chest pain",
+            "dizziness",
+            "vomiting",
+            "fatigue",
+            "lightheadedness",
+            "agitation",
+            "blood pressure"
+        ]
+    },
+    {
+        "Viral gastroenteritis (stomach flu)": [
+            "enteritis",
+            "inflammation",
+            "pain",
+            "muscle ache",
+            "nausea",
+            "headache",
+            "diarrhea",
+            "fever",
+            "cramp",
+            "low-grade fever",
+            "vomiting",
+            "gastroenteritis",
+            "bloody diarrhea"
+        ]
+    },
+    {
+        "Gangrene": [
+            "blister",
+            "confusion",
+            "pain",
+            "shock",
+            "septic shock",
+            "gangrene",
+            "fever",
+            "discharge",
+            "low blood pressure",
+            "low-grade fever",
+            "lightheadedness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Gastritis": [
+            "pain",
+            "nausea",
+            "vomiting"
+        ]
+    },
+    {
+        "Galactorrhea": [
+            "headache",
+            "discharge"
+        ]
+    },
+    {
+        "Klippel-Trenaunay syndrome": [
+            "coma"
+        ]
+    },
+    {
+        "Gas and gas pains": [
+            "pain",
+            "gas pain",
+            "bloating",
+            "cramp"
+        ]
+    },
+    {
+        "E. coli": [
+            "pain",
+            "nausea",
+            "diarrhea",
+            "cramp",
+            "vomiting"
+        ]
+    },
+    {
+        "Knee pain": [
+            "pain",
+            "weakness",
+            "knee pain"
+        ]
+    },
+    {
+        "Gallstones": [
+            "pain",
+            "nausea",
+            "vomiting"
+        ]
+    },
+    {
+        "Kidney stones": [
+            "pain",
+            "nausea",
+            "fever",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Klinefelter syndrome": [
+            "coma"
+        ]
+    },
+    {
+        "Mononucleosis": [
+            "rash",
+            "headache",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Seborrheic keratosis": []
+    },
+    {
+        "Keratoconus": []
+    },
+    {
+        "Keratosis pilaris": [
+            "pain"
+        ]
+    },
+    {
+        "Kidney infection": [
+            "pain",
+            "nausea",
+            "fever",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Keratitis": [
+            "blurred vision",
+            "pain",
+            "photophobia",
+            "keratitis",
+            "discharge"
+        ]
+    },
+    {
+        "Kawasaki disease": [
+            "joint pain",
+            "pain",
+            "abdominal pain",
+            "rash",
+            "diarrhea",
+            "fever",
+            "discharge",
+            "irritability",
+            "high fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Keloid scar": []
+    },
+    {
+        "Dyslexia": []
+    },
+    {
+        "Dysarthria": [
+            "inability to speak",
+            "slurred speech",
+            "dysarthria"
+        ]
+    },
+    {
+        "Persistent depressive disorder": [
+            "depression",
+            "tiredness"
+        ]
+    },
+    {
+        "Dystonia": [
+            "pain",
+            "slurred speech",
+            "anxiety",
+            "fatigue"
+        ]
+    },
+    {
+        "Painful intercourse (dyspareunia)": [
+            "pain"
+        ]
+    },
+    {
+        "Dyshidrosis": [
+            "blister",
+            "pain"
+        ]
+    },
+    {
+        "Dwarfism": [
+            "hydrocephalus",
+            "short stature",
+            "arthritis"
+        ]
+    },
+    {
+        "Dural arteriovenous fistulas": [
+            "bleeding",
+            "hemorrhage",
+            "pain",
+            "seizure",
+            "weakness",
+            "tinnitus",
+            "nausea",
+            "failure to thrive",
+            "headache",
+            "vomiting",
+            "intracerebral hemorrhage"
+        ]
+    },
+    {
+        "Dupuytren contracture": [
+            "pain",
+            "contracture"
+        ]
+    },
+    {
+        "Dumping syndrome": [
+            "abdominal cramp",
+            "weakness",
+            "nausea",
+            "flushing",
+            "diarrhea",
+            "dizziness",
+            "cramp",
+            "vomiting",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Dry skin": []
+    },
+    {
+        "Dry mouth": [
+            "dry mouth",
+            "hoarseness"
+        ]
+    },
+    {
+        "Dressler syndrome": [
+            "pain",
+            "chest pain",
+            "fever"
+        ]
+    },
+    {
+        "Down syndrome": []
+    },
+    {
+        "Drug allergy": [
+            "abdominal cramp",
+            "confusion",
+            "hepatitis",
+            "inflammation",
+            "joint pain",
+            "nephritis",
+            "pain",
+            "seizure",
+            "anemia",
+            "itching",
+            "nausea",
+            "rash",
+            "diarrhea",
+            "wheezing",
+            "dizziness",
+            "fever",
+            "cramp",
+            "loss of consciousness",
+            "vomiting",
+            "fatigue",
+            "lightheadedness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Double uterus": [
+            "bleeding",
+            "miscarriage"
+        ]
+    },
+    {
+        "Foot drop": []
+    },
+    {
+        "Diverticulitis": [
+            "pain",
+            "nausea",
+            "abdominal tenderness",
+            "diarrhea",
+            "fever",
+            "vomiting",
+            "constipation"
+        ]
+    },
+    {
+        "Dissociative disorders": [
+            "depression",
+            "pain",
+            "anxiety",
+            "itching",
+            "shock",
+            "memory loss"
+        ]
+    },
+    {
+        "Dizziness": [
+            "loss of balance",
+            "vertigo",
+            "nausea",
+            "dizziness",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Dislocated shoulder": [
+            "pain",
+            "weakness"
+        ]
+    },
+    {
+        "Diphtheria": [
+            "pain",
+            "tiredness",
+            "fever",
+            "discharge",
+            "nasal discharge",
+            "chills",
+            "hoarseness"
+        ]
+    },
+    {
+        "DiGeorge syndrome (22q11.2 deletion syndrome)": [
+            "cyanosis",
+            "breathing problems"
+        ]
+    },
+    {
+        "Diarrhea": [
+            "pain",
+            "bloating",
+            "nausea",
+            "diarrhea",
+            "fever",
+            "cramp",
+            "vomiting"
+        ]
+    },
+    {
+        "Traveler's diarrhea": [
+            "dehydration",
+            "pain",
+            "bloody stool",
+            "nausea",
+            "diarrhea",
+            "fever",
+            "cramp",
+            "high fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Dysphagia": [
+            "pain",
+            "weight loss",
+            "inability to swallow",
+            "dysphagia",
+            "cough",
+            "hoarseness"
+        ]
+    },
+    {
+        "Diaper rash": [
+            "rash"
+        ]
+    },
+    {
+        "Diabetic neuropathy": [
+            "paralysis",
+            "hypotension",
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "double vision",
+            "loss of appetite",
+            "nausea",
+            "dizziness",
+            "cramp",
+            "vomiting",
+            "blood pressure"
+        ]
+    },
+    {
+        "Diabetic retinopathy": [
+            "blurred vision"
+        ]
+    },
+    {
+        "Diabetic coma": [
+            "blurred vision",
+            "confusion",
+            "drowsiness",
+            "pain",
+            "thirst",
+            "weakness",
+            "tiredness",
+            "dry mouth",
+            "anxiety",
+            "nausea",
+            "headache",
+            "coma",
+            "dizziness",
+            "loss of consciousness",
+            "vomiting",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Diabetic ketoacidosis": [
+            "pain",
+            "thirst"
+        ]
+    },
+    {
+        "Diabetic nephropathy (kidney disease)": [
+            "confusion",
+            "weakness",
+            "tiredness",
+            "loss of appetite",
+            "itching",
+            "nausea",
+            "vomiting",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Type 2 diabetes in children": [
+            "thirst",
+            "weight loss",
+            "fatigue"
+        ]
+    },
+    {
+        "Gestational diabetes": [
+            "thirst"
+        ]
+    },
+    {
+        "Type 2 diabetes": [
+            "blurred vision",
+            "thirst",
+            "weight loss",
+            "fatigue"
+        ]
+    },
+    {
+        "Diabetes insipidus": [
+            "thirst",
+            "weight loss",
+            "headache",
+            "fever",
+            "irritability",
+            "vomiting",
+            "constipation"
+        ]
+    },
+    {
+        "Diabetes": [
+            "thirst"
+        ]
+    },
+    {
+        "Retinal detachment": [
+            "blurred vision",
+            "pain"
+        ]
+    },
+    {
+        "Desmoplastic small round cell tumors": [
+            "pain",
+            "abdominal pain",
+            "constipation"
+        ]
+    },
+    {
+        "Desmoid tumors": [
+            "pain",
+            "nausea",
+            "cramp"
+        ]
+    },
+    {
+        "Dermatomyositis": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "rash"
+        ]
+    },
+    {
+        "Seborrheic dermatitis": [
+            "rash",
+            "fatigue"
+        ]
+    },
+    {
+        "Dermatographia (Dermatographism)": [
+            "itching"
+        ]
+    },
+    {
+        "Neurodermatitis": []
+    },
+    {
+        "Dermatitis": [
+            "blister",
+            "pain",
+            "rash"
+        ]
+    },
+    {
+        "Teen depression": [
+            "depression",
+            "weight loss",
+            "tiredness",
+            "body ache",
+            "decreased appetite",
+            "weight gain",
+            "headache",
+            "insomnia",
+            "agitation"
+        ]
+    },
+    {
+        "Type 1 diabetes in children": [
+            "thirst",
+            "weight loss",
+            "irritability",
+            "fatigue"
+        ]
+    },
+    {
+        "Postpartum depression": [
+            "depression",
+            "tiredness",
+            "loss of appetite",
+            "anxiety",
+            "insomnia",
+            "irritability"
+        ]
+    },
+    {
+        "Depersonalization-derealization disorder": []
+    },
+    {
+        "Dengue fever": [
+            "bleeding",
+            "joint pain",
+            "pain",
+            "shock",
+            "nausea",
+            "rash",
+            "headache",
+            "fever",
+            "irritability",
+            "high fever",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Frontotemporal dementia": [
+            "depression",
+            "muscle weakness",
+            "tremor",
+            "weakness",
+            "aphasia"
+        ]
+    },
+    {
+        "Dementia": [
+            "confusion",
+            "depression",
+            "disorientation",
+            "anxiety",
+            "memory loss",
+            "hallucination",
+            "agitation"
+        ]
+    },
+    {
+        "Delirium": [
+            "delirium",
+            "depression",
+            "anxiety"
+        ]
+    },
+    {
+        "Vascular dementia": [
+            "confusion",
+            "depression",
+            "memory loss",
+            "agitation"
+        ]
+    },
+    {
+        "Delayed sleep phase": [
+            "drowsiness",
+            "insomnia"
+        ]
+    },
+    {
+        "Gastroparesis": [
+            "pain",
+            "weight loss",
+            "bloating",
+            "abdominal pain",
+            "nausea",
+            "vomiting"
+        ]
+    },
+    {
+        "Type 1 diabetes": [
+            "thirst"
+        ]
+    },
+    {
+        "Deviated septum": [
+            "pain"
+        ]
+    },
+    {
+        "Lewy body dementia": [
+            "confusion",
+            "depression",
+            "drowsiness",
+            "tremor",
+            "memory loss",
+            "hallucination",
+            "dizziness",
+            "constipation",
+            "blood pressure"
+        ]
+    },
+    {
+        "Narcolepsy": [
+            "paralysis",
+            "weakness",
+            "slurred speech",
+            "cataplexy",
+            "insomnia",
+            "sleep apnea",
+            "apnea",
+            "hallucination"
+        ]
+    },
+    {
+        "Delayed ejaculation": [
+            "fatigue"
+        ]
+    },
+    {
+        "Dandruff": []
+    },
+    {
+        "Hypothyroidism (underactive thyroid)": [
+            "depression",
+            "muscle weakness",
+            "weakness",
+            "tiredness",
+            "bradycardia",
+            "hoarse voice",
+            "muscle ache",
+            "weight gain",
+            "jaundice",
+            "short stature",
+            "fatigue",
+            "constipation",
+            "feeding problem"
+        ]
+    },
+    {
+        "Deep vein thrombosis (DVT)": [
+            "pain",
+            "change in skin color",
+            "cramp",
+            "leg swelling"
+        ]
+    },
+    {
+        "Jaw tumors and cysts": [
+            "pain"
+        ]
+    },
+    {
+        "Dry eyes": [
+            "blurred vision",
+            "fatigue"
+        ]
+    },
+    {
+        "De Quervain tenosynovitis": [
+            "pain",
+            "synovitis"
+        ]
+    },
+    {
+        "Low blood pressure (hypotension)": [
+            "bleeding",
+            "confusion",
+            "hypotension",
+            "shock",
+            "nausea",
+            "pallor",
+            "dizziness",
+            "low blood pressure",
+            "allergic reaction",
+            "fatigue",
+            "lightheadedness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Hypoplastic left heart syndrome": [
+            "poor feeding",
+            "shock",
+            "cyanosis"
+        ]
+    },
+    {
+        "Hypospadias": []
+    },
+    {
+        "Hypoparathyroidism": [
+            "depression",
+            "pain",
+            "weakness",
+            "muscle ache",
+            "anxiety",
+            "itching",
+            "hair loss",
+            "cramp",
+            "fatigue"
+        ]
+    },
+    {
+        "Hypopituitarism": [
+            "confusion",
+            "muscle weakness",
+            "pain",
+            "thirst",
+            "weakness",
+            "tiredness",
+            "weight gain",
+            "abdominal pain",
+            "nausea",
+            "short stature",
+            "low blood pressure",
+            "infertility",
+            "vomiting",
+            "fatigue",
+            "constipation",
+            "blood pressure"
+        ]
+    },
+    {
+        "Hyponatremia": [
+            "confusion",
+            "drowsiness",
+            "muscle weakness",
+            "seizure",
+            "weakness",
+            "nausea",
+            "headache",
+            "coma",
+            "irritability",
+            "cramp",
+            "vomiting",
+            "hyponatremia",
+            "fatigue"
+        ]
+    },
+    {
+        "Hypoglycemia": [
+            "confusion",
+            "seizure",
+            "slurred speech",
+            "anxiety",
+            "nausea",
+            "headache",
+            "dizziness",
+            "irritability",
+            "loss of consciousness",
+            "fatigue",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Dehydration": [
+            "confusion",
+            "dehydration",
+            "listlessness",
+            "thirst",
+            "dry mouth",
+            "diarrhea",
+            "dizziness",
+            "irritability",
+            "fatigue"
+        ]
+    },
+    {
+        "Hyperthyroidism (overactive thyroid)": [
+            "depression",
+            "muscle weakness",
+            "tremor",
+            "weakness",
+            "weight loss",
+            "tiredness",
+            "arrhythmia",
+            "anxiety",
+            "tachycardia",
+            "palpitation",
+            "irritability"
+        ]
+    },
+    {
+        "Diabetic hypoglycemia": [
+            "confusion",
+            "drowsiness",
+            "muscle weakness",
+            "seizure",
+            "weakness",
+            "tiredness",
+            "slurred speech",
+            "anxiety",
+            "nausea",
+            "headache",
+            "pallor",
+            "convulsion",
+            "dizziness",
+            "irritability",
+            "fatigue",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Hyperparathyroidism": [
+            "depression",
+            "joint pain",
+            "pain",
+            "weakness",
+            "loss of appetite",
+            "nausea",
+            "vomiting"
+        ]
+    },
+    {
+        "Hyperglycemia in diabetes": [
+            "blurred vision",
+            "confusion",
+            "pain",
+            "thirst",
+            "dry mouth",
+            "abdominal pain",
+            "nausea",
+            "loss of consciousness",
+            "vomiting"
+        ]
+    },
+    {
+        "Preeclampsia": [
+            "blurred vision",
+            "pain",
+            "thrombocytopenia",
+            "severe headache",
+            "loss of vision",
+            "proteinuria",
+            "weight gain",
+            "nausea",
+            "headache",
+            "edema",
+            "cytopenia",
+            "vomiting",
+            "light sensitivity",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Pulmonary hypertension": [
+            "pain",
+            "dizziness",
+            "fatigue"
+        ]
+    },
+    {
+        "Farsightedness": [
+            "headache"
+        ]
+    },
+    {
+        "Hypereosinophilic syndrome": [
+            "pain",
+            "rash",
+            "fever",
+            "cough",
+            "muscle pain",
+            "fatigue"
+        ]
+    },
+    {
+        "Hypercalcemia": [
+            "confusion",
+            "depression",
+            "lethargy",
+            "muscle weakness",
+            "pain",
+            "thirst",
+            "weakness",
+            "arrhythmia",
+            "nausea",
+            "palpitation",
+            "vomiting",
+            "fatigue",
+            "constipation",
+            "bone pain"
+        ]
+    },
+    {
+        "Hydrocephalus": [
+            "hydrocephalus",
+            "lethargy",
+            "seizure",
+            "double vision",
+            "nausea",
+            "headache",
+            "memory loss",
+            "irritability",
+            "vomiting"
+        ]
+    },
+    {
+        "Hydrocele": [
+            "pain"
+        ]
+    },
+    {
+        "Low sex drive in women": []
+    },
+    {
+        "Hyperoxaluria and oxalosis": [
+            "pain",
+            "fever",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Kyphosis": [
+            "pain"
+        ]
+    },
+    {
+        "HPV infection": [
+            "bleeding",
+            "pain"
+        ]
+    },
+    {
+        "Progeria": [
+            "weight gain",
+            "hair loss"
+        ]
+    },
+    {
+        "Hot flashes": [
+            "night sweats",
+            "anxiety"
+        ]
+    },
+    {
+        "Laryngitis": [
+            "dry cough",
+            "laryngitis",
+            "cough",
+            "hoarseness"
+        ]
+    },
+    {
+        "Familial hypercholesterolemia": []
+    },
+    {
+        "Horner syndrome": [
+            "anisocoria",
+            "ptosis",
+            "miosis"
+        ]
+    },
+    {
+        "Histoplasmosis": [
+            "dry cough",
+            "joint pain",
+            "pain",
+            "weight loss",
+            "tiredness",
+            "muscle ache",
+            "rash",
+            "headache",
+            "chest pain",
+            "fever",
+            "cough",
+            "chills"
+        ]
+    },
+    {
+        "Hip labral tear": [
+            "pain"
+        ]
+    },
+    {
+        "High blood pressure (hypertension)": [
+            "headache",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Hirsutism": []
+    },
+    {
+        "High cholesterol": []
+    },
+    {
+        "Hiccups": []
+    },
+    {
+        "Stye (sty)": [
+            "inflammation",
+            "pain",
+            "boil"
+        ]
+    },
+    {
+        "High blood pressure in children": [
+            "pain",
+            "seizure",
+            "headache",
+            "palpitation",
+            "chest pain",
+            "vomiting",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Secondary hypertension": [
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Shingles": [
+            "blister",
+            "pain",
+            "itching",
+            "rash",
+            "headache",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Genital herpes": [
+            "blister",
+            "pain",
+            "body ache",
+            "itching",
+            "headache",
+            "fever",
+            "discharge"
+        ]
+    },
+    {
+        "Ramsay Hunt syndrome": [
+            "blister",
+            "paralysis",
+            "pain",
+            "weakness",
+            "dry mouth",
+            "facial paralysis",
+            "tinnitus",
+            "vertigo",
+            "rash",
+            "facial weakness"
+        ]
+    },
+    {
+        "Umbilical hernia": [
+            "pain",
+            "abdominal discomfort",
+            "cough"
+        ]
+    },
+    {
+        "Hereditary hemorrhagic telangiectasia": [
+            "seizure",
+            "anemia",
+            "headache"
+        ]
+    },
+    {
+        "Lynch syndrome": []
+    },
+    {
+        "Toxic hepatitis": [
+            "hepatitis",
+            "pain",
+            "weight loss",
+            "loss of appetite",
+            "itching",
+            "abdominal pain",
+            "nausea",
+            "rash",
+            "jaundice",
+            "fever",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Enlarged liver": [
+            "pain",
+            "abdominal pain",
+            "nausea",
+            "jaundice",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Hepatopulmonary syndrome": [
+            "cyanosis"
+        ]
+    },
+    {
+        "Hemorrhoids": [
+            "bleeding",
+            "inflammation",
+            "pain",
+            "itching"
+        ]
+    },
+    {
+        "Hemophilia": [
+            "bleeding",
+            "lethargy",
+            "pain",
+            "seizure",
+            "weakness",
+            "double vision",
+            "bruise",
+            "headache",
+            "convulsion",
+            "irritability",
+            "vomiting"
+        ]
+    },
+    {
+        "Hemolytic uremic syndrome (HUS)": [
+            "bleeding",
+            "confusion",
+            "pain",
+            "seizure",
+            "tiredness",
+            "anemia",
+            "bloating",
+            "edema",
+            "diarrhea",
+            "fever",
+            "cramp",
+            "vomiting",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Liver hemangioma": [
+            "pain",
+            "nausea",
+            "early satiety",
+            "vomiting"
+        ]
+    },
+    {
+        "Hemifacial spasm": [
+            "pain",
+            "anxiety",
+            "itching"
+        ]
+    },
+    {
+        "Plantar fasciitis": [
+            "pain"
+        ]
+    },
+    {
+        "Heavy menstrual bleeding": [
+            "bleeding",
+            "fatigue"
+        ]
+    },
+    {
+        "Heatstroke": [
+            "confusion",
+            "delirium",
+            "seizure",
+            "slurred speech",
+            "nausea",
+            "headache",
+            "coma",
+            "irritability",
+            "vomiting",
+            "agitation"
+        ]
+    },
+    {
+        "Heat rash": [
+            "blister",
+            "pain",
+            "itching",
+            "rash"
+        ]
+    },
+    {
+        "Herniated disk": [
+            "pain",
+            "weakness",
+            "cough"
+        ]
+    },
+    {
+        "Heartburn": [
+            "pain"
+        ]
+    },
+    {
+        "Heart valve disease": [
+            "pain",
+            "abdominal swelling",
+            "chest pain",
+            "dizziness",
+            "fatigue"
+        ]
+    },
+    {
+        "Hiatal hernia": [
+            "bleeding",
+            "pain",
+            "abdominal pain",
+            "gastrointestinal bleeding",
+            "vomiting"
+        ]
+    },
+    {
+        "Heat exhaustion": [
+            "muscle cramp",
+            "exhaustion",
+            "nausea",
+            "headache",
+            "dizziness",
+            "cramp",
+            "low blood pressure",
+            "fatigue",
+            "blood pressure"
+        ]
+    },
+    {
+        "Vesicoureteral reflux": [
+            "pain",
+            "fever",
+            "irritability",
+            "constipation",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Heart attack": [
+            "pain",
+            "nausea",
+            "chest pain",
+            "dizziness",
+            "fatigue",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Heart palpitations": [
+            "palpitation"
+        ]
+    },
+    {
+        "Stickler syndrome": [
+            "coma",
+            "arthritis"
+        ]
+    },
+    {
+        "Hearing loss": [
+            "tinnitus"
+        ]
+    },
+    {
+        "Spinal headaches": [
+            "pain",
+            "seizure",
+            "photophobia",
+            "double vision",
+            "tinnitus",
+            "nausea",
+            "headache",
+            "dizziness",
+            "neck pain",
+            "vomiting"
+        ]
+    },
+    {
+        "Sinus headaches": [
+            "pain",
+            "sinusitis",
+            "congestion",
+            "nausea",
+            "headache",
+            "discharge",
+            "nasal discharge",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Thunderclap headaches": [
+            "pain",
+            "seizure",
+            "nausea",
+            "headache",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Exercise headaches": [
+            "double vision",
+            "headache",
+            "loss of consciousness",
+            "vomiting"
+        ]
+    },
+    {
+        "Migraine": [
+            "depression",
+            "pain",
+            "weakness",
+            "nausea",
+            "vomiting",
+            "constipation"
+        ]
+    },
+    {
+        "Head lice": [
+            "itching",
+            "allergic reaction"
+        ]
+    },
+    {
+        "Heart murmurs": [
+            "pain",
+            "weight gain",
+            "chest pain",
+            "dizziness",
+            "cough"
+        ]
+    },
+    {
+        "Hepatitis C": [
+            "bleeding",
+            "confusion",
+            "drowsiness",
+            "hepatitis",
+            "weight loss",
+            "muscle ache",
+            "slurred speech",
+            "nausea",
+            "ascites",
+            "jaundice",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Sex headaches": [
+            "headache"
+        ]
+    },
+    {
+        "Headaches in children": [
+            "pain",
+            "congestion",
+            "abdominal pain",
+            "nausea",
+            "headache",
+            "vomiting",
+            "agitation"
+        ]
+    },
+    {
+        "Tension headache": [
+            "pain",
+            "nausea",
+            "headache",
+            "vomiting"
+        ]
+    },
+    {
+        "Hangovers": [
+            "depression",
+            "pain",
+            "thirst",
+            "weakness",
+            "dry mouth",
+            "muscle ache",
+            "anxiety",
+            "nausea",
+            "headache",
+            "dizziness",
+            "irritability",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Hamstring injury": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "change in skin color"
+        ]
+    },
+    {
+        "Hammertoe and mallet toe": [
+            "pain"
+        ]
+    },
+    {
+        "Trichotillomania (hair-pulling disorder)": [
+            "anxiety",
+            "hair loss",
+            "fatigue"
+        ]
+    },
+    {
+        "Helicobacter pylori (H. pylori) infection": [
+            "pain",
+            "weight loss",
+            "loss of appetite",
+            "bloating",
+            "nausea"
+        ]
+    },
+    {
+        "Meralgia paresthetica": [
+            "pain"
+        ]
+    },
+    {
+        "Burns": [
+            "blister",
+            "pain"
+        ]
+    },
+    {
+        "Bunions": [
+            "pain"
+        ]
+    },
+    {
+        "Bundle branch block": [
+            "syncope"
+        ]
+    },
+    {
+        "Bullous pemphigoid": [
+            "blister",
+            "eczema",
+            "itching",
+            "rash"
+        ]
+    },
+    {
+        "Bulimia nervosa": [
+            "weight loss"
+        ]
+    },
+    {
+        "Buerger disease": [
+            "inflammation",
+            "pain"
+        ]
+    },
+    {
+        "Bruxism (teeth grinding)": [
+            "pain",
+            "earache",
+            "headache"
+        ]
+    },
+    {
+        "Brugada syndrome": [
+            "seizure",
+            "palpitation",
+            "dizziness"
+        ]
+    },
+    {
+        "Brucellosis": [
+            "inflammation",
+            "pain",
+            "weakness",
+            "endocarditis",
+            "loss of appetite",
+            "joint inflammation",
+            "headache",
+            "fever",
+            "arthritis",
+            "spondylitis",
+            "chills",
+            "fatigue"
+        ]
+    },
+    {
+        "Bronchitis": [
+            "body ache",
+            "bronchitis",
+            "sputum",
+            "headache",
+            "fever",
+            "cough",
+            "chills",
+            "fatigue",
+            "chest discomfort"
+        ]
+    },
+    {
+        "Bronchiolitis": [
+            "bronchiolitis",
+            "wheezing",
+            "fever",
+            "cough",
+            "otitis"
+        ]
+    },
+    {
+        "Broken toe": [
+            "bleeding",
+            "pain",
+            "change in skin color"
+        ]
+    },
+    {
+        "Broken wrist": [
+            "pain"
+        ]
+    },
+    {
+        "Broken ribs": [
+            "pain"
+        ]
+    },
+    {
+        "Broken nose": [
+            "bleeding",
+            "pain",
+            "discharge"
+        ]
+    },
+    {
+        "Hip fracture": [
+            "pain"
+        ]
+    },
+    {
+        "Broken leg": [
+            "pain"
+        ]
+    },
+    {
+        "Broken hand": [
+            "pain"
+        ]
+    },
+    {
+        "Hepatitis A": [
+            "hepatitis",
+            "joint pain",
+            "pain",
+            "weakness",
+            "tiredness",
+            "loss of appetite",
+            "itching",
+            "abdominal pain",
+            "nausea",
+            "jaundice",
+            "diarrhea",
+            "fever",
+            "low-grade fever",
+            "vomiting",
+            "dark urine"
+        ]
+    },
+    {
+        "Hepatitis B": [
+            "hepatitis",
+            "joint pain",
+            "pain",
+            "weakness",
+            "loss of appetite",
+            "abdominal pain",
+            "nausea",
+            "jaundice",
+            "fever",
+            "vomiting",
+            "fatigue",
+            "dark urine"
+        ]
+    },
+    {
+        "Broken foot": [
+            "pain"
+        ]
+    },
+    {
+        "Broken collarbone": [
+            "pain"
+        ]
+    },
+    {
+        "Hantavirus pulmonary syndrome": [
+            "pain",
+            "muscle ache",
+            "nausea",
+            "headache",
+            "diarrhea",
+            "fever",
+            "cough",
+            "low blood pressure",
+            "vomiting",
+            "chills",
+            "blood pressure"
+        ]
+    },
+    {
+        "Hand-foot-and-mouth disease": [
+            "blister",
+            "pain",
+            "seizure",
+            "loss of appetite",
+            "rash",
+            "fever",
+            "high fever"
+        ]
+    },
+    {
+        "Subconjunctival hemorrhage (broken blood vessel in eye)": [
+            "hemorrhage",
+            "pain",
+            "discharge"
+        ]
+    },
+    {
+        "Pediatric brain tumors": [
+            "confusion",
+            "seizure",
+            "weakness",
+            "double vision",
+            "loss of appetite",
+            "slurred speech",
+            "nausea",
+            "headache",
+            "irritability",
+            "vomiting"
+        ]
+    },
+    {
+        "Breast pain": [
+            "pain",
+            "arthritis"
+        ]
+    },
+    {
+        "Mastitis": [
+            "pain",
+            "fever"
+        ]
+    },
+    {
+        "Breast cysts": [
+            "pain",
+            "discharge"
+        ]
+    },
+    {
+        "Brain tumor": [
+            "confusion",
+            "pain",
+            "seizure",
+            "vertigo",
+            "nausea",
+            "headache",
+            "dizziness",
+            "cough",
+            "neck pain",
+            "vomiting"
+        ]
+    },
+    {
+        "Bradycardia": [
+            "confusion",
+            "pain",
+            "bradycardia",
+            "syncope",
+            "chest pain",
+            "dizziness",
+            "fatigue",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Brachial plexus injury": [
+            "pain",
+            "weakness",
+            "shock"
+        ]
+    },
+    {
+        "Bone spurs": [
+            "pain",
+            "weakness",
+            "arthritis"
+        ]
+    },
+    {
+        "Sick sinus syndrome": [
+            "confusion",
+            "pain",
+            "bradycardia",
+            "palpitation",
+            "chest pain",
+            "dizziness",
+            "fatigue",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Bone metastasis": [
+            "confusion",
+            "pain",
+            "weakness",
+            "nausea",
+            "urinary incontinence",
+            "vomiting",
+            "constipation",
+            "bone pain"
+        ]
+    },
+    {
+        "Brain metastases": [
+            "seizure",
+            "weakness",
+            "nausea",
+            "headache",
+            "vomiting"
+        ]
+    },
+    {
+        "Cytomegalovirus (CMV) infection": [
+            "seizure",
+            "low birth weight",
+            "muscle ache",
+            "rash",
+            "jaundice",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Epidermoid cysts": []
+    },
+    {
+        "Brain AVM (arteriovenous malformation)": [
+            "bleeding",
+            "confusion",
+            "paralysis",
+            "hemorrhage",
+            "muscle weakness",
+            "pain",
+            "seizure",
+            "severe headache",
+            "weakness",
+            "heart failure",
+            "failure to thrive",
+            "headache"
+        ]
+    },
+    {
+        "Borderline personality disorder": [
+            "anxiety",
+            "irritability"
+        ]
+    },
+    {
+        "Botulism": [
+            "confusion",
+            "paralysis",
+            "muscle weakness",
+            "weakness",
+            "tiredness",
+            "double vision",
+            "dry mouth",
+            "facial paralysis",
+            "weak cry",
+            "nausea",
+            "headache",
+            "fever",
+            "irritability",
+            "cramp",
+            "facial weakness",
+            "vomiting",
+            "constipation",
+            "blood pressure"
+        ]
+    },
+    {
+        "Kidney cysts": [
+            "pain",
+            "fever"
+        ]
+    },
+    {
+        "Pilonidal cyst": [
+            "pain"
+        ]
+    },
+    {
+        "Cyclothymia (cyclothymic disorder)": [
+            "irritability",
+            "inability to concentrate",
+            "fatigue"
+        ]
+    },
+    {
+        "Ganglion cyst": [
+            "muscle weakness",
+            "pain",
+            "weakness"
+        ]
+    },
+    {
+        "Cystic fibrosis": [
+            "sinusitis",
+            "weight gain",
+            "sputum",
+            "wheezing",
+            "cough",
+            "infertility",
+            "constipation"
+        ]
+    },
+    {
+        "Spermatocele": [
+            "pain"
+        ]
+    },
+    {
+        "Pancreatic cysts": [
+            "pain",
+            "weight loss",
+            "abdominal pain",
+            "nausea",
+            "vomiting"
+        ]
+    },
+    {
+        "Ovarian cysts": [
+            "pain",
+            "bloating"
+        ]
+    },
+    {
+        "Self-injury/cutting": [
+            "bruise"
+        ]
+    },
+    {
+        "Cyclic vomiting syndrome": [
+            "pain",
+            "abdominal pain",
+            "nausea",
+            "headache",
+            "diarrhea",
+            "dizziness",
+            "vomiting"
+        ]
+    },
+    {
+        "Scoliosis": []
+    },
+    {
+        "Cushing syndrome": [
+            "depression",
+            "muscle weakness",
+            "weakness",
+            "tiredness",
+            "weight gain",
+            "bruise",
+            "anxiety",
+            "headache",
+            "irritability",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Cryoglobulinemia": [
+            "hepatitis",
+            "joint pain",
+            "skin lesion",
+            "pain",
+            "arthritis"
+        ]
+    },
+    {
+        "Croup": [
+            "hoarse voice",
+            "anxiety",
+            "fever",
+            "cough"
+        ]
+    },
+    {
+        "Peyronie's disease": [
+            "pain"
+        ]
+    },
+    {
+        "Cutaneous T-cell lymphoma": [
+            "hair loss",
+            "rash"
+        ]
+    },
+    {
+        "Undescended testicle": []
+    },
+    {
+        "Osteomyelitis": [
+            "pain",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Sweating and body odor": [
+            "night sweats"
+        ]
+    },
+    {
+        "Body lice": [
+            "itching"
+        ]
+    },
+    {
+        "Burning mouth syndrome": [
+            "thirst",
+            "dry mouth"
+        ]
+    },
+    {
+        "Crohn's disease": [
+            "inflammation",
+            "pain",
+            "weight loss",
+            "anemia",
+            "mouth sore",
+            "abdominal pain",
+            "diarrhea",
+            "fever",
+            "cramp",
+            "fatigue"
+        ]
+    },
+    {
+        "Ureteral obstruction": [
+            "pain",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Blastocystis hominis": [
+            "pain",
+            "weight loss",
+            "loss of appetite",
+            "bloating",
+            "itching",
+            "abdominal pain",
+            "nausea",
+            "diarrhea",
+            "fatigue"
+        ]
+    },
+    {
+        "Bladder exstrophy": []
+    },
+    {
+        "Black hairy tongue": []
+    },
+    {
+        "Bladder stones": [
+            "pain",
+            "abdominal pain"
+        ]
+    },
+    {
+        "Blood in urine (hematuria)": [
+            "bleeding",
+            "pain"
+        ]
+    },
+    {
+        "Bipolar disorder": [
+            "depression",
+            "weight loss",
+            "weight gain",
+            "insomnia",
+            "irritability",
+            "fatigue",
+            "agitation"
+        ]
+    },
+    {
+        "Bile reflux": [
+            "pain",
+            "weight loss",
+            "abdominal pain",
+            "nausea",
+            "cough",
+            "vomiting",
+            "hoarseness"
+        ]
+    },
+    {
+        "Blocked tear duct": [
+            "blurred vision",
+            "inflammation",
+            "pain",
+            "discharge",
+            "excessive tearing"
+        ]
+    },
+    {
+        "Congenital heart defects in children": [
+            "pain",
+            "endocarditis",
+            "chest pain",
+            "blood pressure"
+        ]
+    },
+    {
+        "Cystitis": [
+            "hematuria",
+            "pain",
+            "fever",
+            "low-grade fever"
+        ]
+    },
+    {
+        "Benign peripheral nerve tumor": [
+            "pain",
+            "weakness",
+            "loss of balance",
+            "dizziness"
+        ]
+    },
+    {
+        "Blepharitis": [
+            "blurred vision"
+        ]
+    },
+    {
+        "Benign prostatic hyperplasia (BPH)": [
+            "depression",
+            "pain"
+        ]
+    },
+    {
+        "Bell's palsy": [
+            "paralysis",
+            "pain",
+            "weakness",
+            "facial paralysis",
+            "headache",
+            "facial weakness"
+        ]
+    },
+    {
+        "Behcet's disease": [
+            "bleeding",
+            "blurred vision",
+            "disorientation",
+            "inflammation",
+            "pain",
+            "mouth sore",
+            "abdominal pain",
+            "headache",
+            "diarrhea",
+            "fever"
+        ]
+    },
+    {
+        "Geographic tongue": [
+            "pain"
+        ]
+    },
+    {
+        "Benign paroxysmal positional vertigo (BPPV)": [
+            "loss of balance",
+            "vertigo",
+            "nausea",
+            "dizziness",
+            "vomiting"
+        ]
+    },
+    {
+        "Body dysmorphic disorder": [
+            "repetitive behavior"
+        ]
+    },
+    {
+        "Bee sting": [
+            "pain",
+            "vertigo",
+            "itching",
+            "nausea",
+            "headache",
+            "diarrhea",
+            "convulsion",
+            "dizziness",
+            "fever",
+            "loss of consciousness",
+            "breathing problems",
+            "allergic reaction",
+            "vomiting"
+        ]
+    },
+    {
+        "Bedbugs": [
+            "blister",
+            "itching",
+            "rash",
+            "allergic reaction"
+        ]
+    },
+    {
+        "Bedsores (pressure ulcers)": []
+    },
+    {
+        "Folliculitis": [
+            "blister",
+            "inflammation",
+            "pain",
+            "itching",
+            "rash",
+            "boil"
+        ]
+    },
+    {
+        "Bacterial vaginosis": [
+            "vaginal discharge",
+            "itching",
+            "discharge"
+        ]
+    },
+    {
+        "Back pain": [
+            "pain"
+        ]
+    },
+    {
+        "Menstrual cramps": [
+            "pain",
+            "nausea",
+            "headache",
+            "dizziness",
+            "cramp"
+        ]
+    },
+    {
+        "Balance problems": [
+            "confusion",
+            "loss of balance",
+            "vertigo",
+            "syncope",
+            "dizziness",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Baker cyst": [
+            "pain",
+            "knee pain"
+        ]
+    },
+    {
+        "Bags under eyes": []
+    },
+    {
+        "Cradle cap": [
+            "inflammation"
+        ]
+    },
+    {
+        "Muscle cramp": [
+            "muscle cramp",
+            "cramp"
+        ]
+    },
+    {
+        "Bad breath": []
+    },
+    {
+        "Pubic lice (crabs)": [
+            "itching"
+        ]
+    },
+    {
+        "Multisystem inflammatory syndrome in children (MIS-C) and COVID-19": [
+            "confusion",
+            "inflammation",
+            "pain",
+            "bloodshot eye",
+            "shock",
+            "diarrhea",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Small vessel disease": [
+            "pain",
+            "tiredness",
+            "chest pain"
+        ]
+    },
+    {
+        "Coronary artery disease": [
+            "pain",
+            "nausea",
+            "chest pain",
+            "fatigue"
+        ]
+    },
+    {
+        "Constipation in children": [
+            "pain",
+            "constipation"
+        ]
+    },
+    {
+        "Contact dermatitis": [
+            "blister",
+            "rash",
+            "allergic reaction"
+        ]
+    },
+    {
+        "Constipation": [
+            "pain",
+            "constipation"
+        ]
+    },
+    {
+        "Pink eye (conjunctivitis)": [
+            "photophobia",
+            "discharge",
+            "eye symptom"
+        ]
+    },
+    {
+        "Conjoined twins": [
+            "tiredness",
+            "nausea",
+            "vomiting"
+        ]
+    },
+    {
+        "Heart failure": [
+            "pain",
+            "weakness",
+            "heart failure",
+            "weight gain",
+            "nausea",
+            "chest pain",
+            "wheezing",
+            "cough",
+            "fatigue"
+        ]
+    },
+    {
+        "Craniosynostosis": []
+    },
+    {
+        "Hirschsprung's disease": [
+            "failure to thrive",
+            "diarrhea",
+            "vomiting",
+            "fatigue",
+            "constipation"
+        ]
+    },
+    {
+        "Coronavirus disease 2019 (COVID-19)": [
+            "pain",
+            "conjunctivitis",
+            "tiredness",
+            "muscle ache",
+            "nausea",
+            "rash",
+            "headache",
+            "diarrhea",
+            "chest pain",
+            "fever",
+            "cough",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Cough headaches": [
+            "blurred vision",
+            "pain",
+            "tremor",
+            "double vision",
+            "headache",
+            "dizziness",
+            "cough"
+        ]
+    },
+    {
+        "Corticobasal degeneration (corticobasal syndrome)": [
+            "abnormal posture"
+        ]
+    },
+    {
+        "Functional neurologic disorder/conversion disorder": [
+            "blindness",
+            "deafness",
+            "paralysis",
+            "seizure",
+            "tremor",
+            "weakness",
+            "inability to speak",
+            "double vision",
+            "epileptic seizure",
+            "loss of balance",
+            "slurred speech",
+            "loss of consciousness"
+        ]
+    },
+    {
+        "Congenital heart disease in adults": [
+            "arrhythmia",
+            "cyanosis",
+            "edema"
+        ]
+    },
+    {
+        "Concussion": [
+            "confusion",
+            "depression",
+            "drowsiness",
+            "listlessness",
+            "seizure",
+            "loss of balance",
+            "slurred speech",
+            "nausea",
+            "headache",
+            "sleep disturbance",
+            "dizziness",
+            "irritability",
+            "loss of consciousness",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Kleptomania": [
+            "anxiety"
+        ]
+    },
+    {
+        "Congenital heart defects in children": [
+            "weight gain",
+            "cyanosis"
+        ]
+    },
+    {
+        "Congenital adrenal hyperplasia": [
+            "infertility",
+            "blood pressure"
+        ]
+    },
+    {
+        "Genital warts": [
+            "bleeding",
+            "itching"
+        ]
+    },
+    {
+        "Hoarding disorder": [
+            "rash"
+        ]
+    },
+    {
+        "Common variable immunodeficiency": [
+            "sinusitis"
+        ]
+    },
+    {
+        "Common warts": []
+    },
+    {
+        "Common cold in babies": [
+            "sneezing",
+            "congestion",
+            "decreased appetite",
+            "fever",
+            "cough",
+            "discharge",
+            "irritability",
+            "nasal discharge",
+            "nasal congestion"
+        ]
+    },
+    {
+        "Coma": [
+            "pain",
+            "coma"
+        ]
+    },
+    {
+        "Compulsive sexual behavior": [
+            "depression",
+            "anxiety"
+        ]
+    },
+    {
+        "Complicated grief": [
+            "depression",
+            "pain"
+        ]
+    },
+    {
+        "Complex regional pain syndrome": [
+            "pain",
+            "tremor",
+            "weakness",
+            "sweaty"
+        ]
+    },
+    {
+        "Binge-eating disorder": [
+            "weight loss",
+            "vomiting",
+            "overweight"
+        ]
+    },
+    {
+        "Pneumothorax": [
+            "pain",
+            "chest pain"
+        ]
+    },
+    {
+        "Baby acne": []
+    },
+    {
+        "Colon polyps": [
+            "bleeding",
+            "pain",
+            "anemia",
+            "abdominal pain",
+            "diarrhea",
+            "cramp",
+            "constipation"
+        ]
+    },
+    {
+        "Color blindness": [
+            "blindness",
+            "confusion"
+        ]
+    },
+    {
+        "Cold sore": [
+            "blister",
+            "pain",
+            "muscle ache",
+            "itching",
+            "headache",
+            "fever"
+        ]
+    },
+    {
+        "Hypothermia": [
+            "confusion",
+            "drowsiness",
+            "hypothermia",
+            "slurred speech",
+            "memory loss",
+            "loss of consciousness"
+        ]
+    },
+    {
+        "Microscopic colitis": [
+            "dehydration",
+            "pain",
+            "weight loss",
+            "bloating",
+            "abdominal pain",
+            "nausea",
+            "diarrhea",
+            "cramp"
+        ]
+    },
+    {
+        "Colic": [
+            "pain",
+            "colic",
+            "flushing"
+        ]
+    },
+    {
+        "Ulcerative colitis": [
+            "abdominal cramp",
+            "bleeding",
+            "inflammation",
+            "pain",
+            "weight loss",
+            "abdominal pain",
+            "diarrhea",
+            "fever",
+            "tenesmus",
+            "cramp",
+            "fatigue",
+            "bloody diarrhea"
+        ]
+    },
+    {
+        "Cold urticaria": [
+            "urticaria",
+            "shock",
+            "loss of consciousness"
+        ]
+    },
+    {
+        "Mitral valve prolapse": [
+            "arrhythmia",
+            "dizziness",
+            "fatigue",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Cluster headache": [
+            "pain",
+            "nausea",
+            "headache"
+        ]
+    },
+    {
+        "Depression (major depressive disorder)": [
+            "depression",
+            "pain",
+            "weight loss",
+            "tiredness",
+            "loss of appetite",
+            "weight gain",
+            "anxiety",
+            "underweight",
+            "headache",
+            "sleep disturbance",
+            "insomnia",
+            "irritability",
+            "fatigue",
+            "agitation"
+        ]
+    },
+    {
+        "Common cold": [
+            "sneezing",
+            "body ache",
+            "headache",
+            "fever",
+            "cough",
+            "low-grade fever"
+        ]
+    },
+    {
+        "Cleft lip and cleft palate": []
+    },
+    {
+        "Valley fever": [
+            "skin lesion",
+            "pain",
+            "weight loss",
+            "tiredness",
+            "muscle soreness",
+            "night sweats",
+            "sputum",
+            "rash",
+            "headache",
+            "chest pain",
+            "fever",
+            "cough",
+            "discharge",
+            "low-grade fever",
+            "meningitis",
+            "chills",
+            "fatigue"
+        ]
+    },
+    {
+        "Clubfoot": [
+            "pain"
+        ]
+    },
+    {
+        "Creutzfeldt-Jakob disease": [
+            "blindness",
+            "memory loss",
+            "insomnia"
+        ]
+    },
+    {
+        "Vulvodynia": [
+            "pain"
+        ]
+    },
+    {
+        "COPD": [
+            "weight loss",
+            "sputum",
+            "wheezing",
+            "cough",
+            "chronic cough",
+            "chest tightness"
+        ]
+    },
+    {
+        "Cirrhosis": [
+            "bleeding",
+            "confusion",
+            "drowsiness",
+            "weight loss",
+            "loss of appetite",
+            "slurred speech",
+            "nausea",
+            "ascites",
+            "edema",
+            "jaundice",
+            "coma",
+            "fatigue"
+        ]
+    },
+    {
+        "Chronic sinusitis": [
+            "pain",
+            "sinusitis",
+            "tiredness",
+            "congestion",
+            "headache",
+            "fever",
+            "cough"
+        ]
+    },
+    {
+        "Chronic traumatic encephalopathy": [
+            "depression",
+            "anxiety",
+            "memory loss"
+        ]
+    },
+    {
+        "Chronic pelvic pain": [
+            "pain",
+            "bloating",
+            "diarrhea",
+            "cramp",
+            "constipation"
+        ]
+    },
+    {
+        "Hashimoto's disease": [
+            "bleeding",
+            "depression",
+            "joint pain",
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "muscle ache",
+            "hair loss",
+            "fatigue",
+            "constipation"
+        ]
+    },
+    {
+        "Chronic daily headaches": [
+            "pain",
+            "congestion",
+            "nausea",
+            "headache",
+            "nasal congestion",
+            "vomiting"
+        ]
+    },
+    {
+        "Chronic granulomatous disease": [
+            "pain",
+            "bloody stool",
+            "rash",
+            "diarrhea",
+            "chest pain",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Chronic kidney disease": [
+            "muscle cramp",
+            "pain",
+            "weakness",
+            "loss of appetite",
+            "nausea",
+            "chest pain",
+            "cramp",
+            "vomiting",
+            "fatigue",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Chronic cough": [
+            "wheezing",
+            "cough",
+            "chronic cough",
+            "hoarseness"
+        ]
+    },
+    {
+        "Chronic hives": [
+            "pain",
+            "edema"
+        ]
+    },
+    {
+        "Chondrosarcoma": [
+            "pain",
+            "weakness",
+            "coma"
+        ]
+    },
+    {
+        "Huntington's disease": [
+            "depression",
+            "seizure",
+            "tremor",
+            "weight loss",
+            "insomnia",
+            "irritability",
+            "fatigue",
+            "repetitive behavior",
+            "contracture"
+        ]
+    },
+    {
+        "Chronic exertional compartment syndrome": [
+            "pain",
+            "weakness",
+            "cramp"
+        ]
+    },
+    {
+        "Cholera": [
+            "dehydration",
+            "muscle cramp",
+            "thirst",
+            "dry mouth",
+            "shock",
+            "nausea",
+            "diarrhea",
+            "irritability",
+            "cramp",
+            "low blood pressure",
+            "vomiting",
+            "fatigue",
+            "blood pressure"
+        ]
+    },
+    {
+        "Primary sclerosing cholangitis": [
+            "pain",
+            "weight loss",
+            "night sweats",
+            "itching",
+            "abdominal pain",
+            "jaundice",
+            "fever",
+            "chills",
+            "fatigue"
+        ]
+    },
+    {
+        "Chlamydia trachomatis": [
+            "bleeding",
+            "pain",
+            "conjunctivitis",
+            "vaginal discharge",
+            "discharge",
+            "testicular pain"
+        ]
+    },
+    {
+        "Cholangiocarcinoma (bile duct cancer)": [
+            "pain",
+            "night sweats",
+            "abdominal pain",
+            "jaundice",
+            "fever",
+            "fatigue",
+            "dark urine"
+        ]
+    },
+    {
+        "Childhood obesity": [
+            "overweight"
+        ]
+    },
+    {
+        "Child abuse": [
+            "bleeding",
+            "depression",
+            "pain",
+            "bruise",
+            "anxiety",
+            "hyperactivity"
+        ]
+    },
+    {
+        "Chilblains": [
+            "blister",
+            "pain"
+        ]
+    },
+    {
+        "Hip dysplasia": [
+            "pain",
+            "arthritis"
+        ]
+    },
+    {
+        "Chemo brain": [
+            "confusion"
+        ]
+    },
+    {
+        "Chest pain": [
+            "pain",
+            "weakness",
+            "nausea",
+            "chest pain",
+            "dizziness",
+            "cough",
+            "vomiting",
+            "lightheadedness",
+            "chest discomfort"
+        ]
+    },
+    {
+        "Chickenpox": [
+            "blister",
+            "tiredness",
+            "loss of appetite",
+            "papule",
+            "rash",
+            "headache",
+            "fever"
+        ]
+    },
+    {
+        "Costochondritis": [
+            "pain",
+            "sneezing",
+            "chest pain",
+            "cough"
+        ]
+    },
+    {
+        "Charcot-Marie-Tooth disease": [
+            "weakness"
+        ]
+    },
+    {
+        "Chagas disease": [
+            "pain",
+            "body ache",
+            "heart failure",
+            "loss of appetite",
+            "nausea",
+            "rash",
+            "headache",
+            "diarrhea",
+            "fever",
+            "vomiting",
+            "fatigue",
+            "constipation"
+        ]
+    },
+    {
+        "Drug addiction (substance use disorder)": [
+            "confusion",
+            "delirium",
+            "depression",
+            "drowsiness",
+            "muscle cramp",
+            "pain",
+            "seizure",
+            "tremor",
+            "weight loss",
+            "congestion",
+            "dry mouth",
+            "mouth sore",
+            "slurred speech",
+            "anxiety",
+            "nausea",
+            "rash",
+            "memory loss",
+            "insomnia",
+            "coma",
+            "hallucination",
+            "dizziness",
+            "cough",
+            "irritability",
+            "aggressive behavior",
+            "cramp",
+            "nasal congestion",
+            "vomiting",
+            "chills",
+            "constipation",
+            "agitation",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Stroke": [
+            "confusion",
+            "paralysis",
+            "severe headache",
+            "weakness",
+            "headache",
+            "dizziness",
+            "vomiting"
+        ]
+    },
+    {
+        "Spinal cord tumor": [
+            "muscle weakness",
+            "pain",
+            "weakness"
+        ]
+    },
+    {
+        "Cerebral palsy": [
+            "ataxia",
+            "coordination symptom",
+            "pain",
+            "seizure",
+            "spasticity",
+            "tremor",
+            "urinary incontinence",
+            "general symptom",
+            "constipation"
+        ]
+    },
+    {
+        "CSF leak (Cerebrospinal fluid leak)": [
+            "pain",
+            "tinnitus",
+            "shoulder pain",
+            "nausea",
+            "headache",
+            "dizziness",
+            "cough",
+            "vomiting",
+            "meningitis"
+        ]
+    },
+    {
+        "Swimmer's itch": [
+            "blister",
+            "rash"
+        ]
+    },
+    {
+        "Central nervous system vascular malformations": [
+            "bleeding",
+            "seizure",
+            "headache"
+        ]
+    },
+    {
+        "Central sleep apnea": [
+            "headache",
+            "insomnia",
+            "sleep apnea",
+            "hypersomnia",
+            "apnea"
+        ]
+    },
+    {
+        "Cellulitis": [
+            "cellulitis",
+            "blister",
+            "pain",
+            "fever",
+            "chills"
+        ]
+    },
+    {
+        "Cellulite": []
+    },
+    {
+        "Earwax blockage": [
+            "pain",
+            "tinnitus",
+            "earache",
+            "dizziness",
+            "cough",
+            "discharge"
+        ]
+    },
+    {
+        "Cervicitis": [
+            "bleeding",
+            "inflammation",
+            "pain",
+            "vaginal discharge",
+            "discharge"
+        ]
+    },
+    {
+        "Cervical dystonia": [
+            "pain",
+            "headache",
+            "neck pain"
+        ]
+    },
+    {
+        "Cervical spondylosis": [
+            "pain",
+            "weakness"
+        ]
+    },
+    {
+        "Barrett's esophagus": [
+            "pain",
+            "chest pain"
+        ]
+    },
+    {
+        "Celiac disease": [
+            "blister",
+            "joint pain",
+            "pain",
+            "seizure",
+            "weight loss",
+            "anemia",
+            "bloating",
+            "abdominal pain",
+            "nausea",
+            "failure to thrive",
+            "rash",
+            "headache",
+            "short stature",
+            "diarrhea",
+            "irritability",
+            "vomiting",
+            "fatigue",
+            "constipation",
+            "hyperactivity"
+        ]
+    },
+    {
+        "Carpal tunnel syndrome": [
+            "weakness",
+            "shock"
+        ]
+    },
+    {
+        "Congenital diaphragmatic hernia (CDH)": [
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Median arcuate ligament syndrome (MALS)": [
+            "pain",
+            "weight loss",
+            "bloating",
+            "nausea",
+            "diarrhea",
+            "vomiting"
+        ]
+    },
+    {
+        "Cavities/tooth decay": [
+            "pain",
+            "toothache"
+        ]
+    },
+    {
+        "Cavernous malformations": [
+            "bleeding",
+            "seizure",
+            "severe headache",
+            "weakness",
+            "double vision",
+            "headache"
+        ]
+    },
+    {
+        "Cataracts": [
+            "double vision"
+        ]
+    },
+    {
+        "Cardiomyopathy": [
+            "bloating",
+            "dizziness",
+            "cough",
+            "fatigue",
+            "lightheadedness",
+            "chest discomfort"
+        ]
+    },
+    {
+        "Childhood apraxia of speech": [
+            "dysarthria"
+        ]
+    },
+    {
+        "Enlarged heart": [
+            "arrhythmia",
+            "edema"
+        ]
+    },
+    {
+        "Myocardial ischemia": [
+            "pain",
+            "ischemia",
+            "nausea",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Cardiogenic shock": [
+            "hypotension",
+            "pain",
+            "cardiogenic shock",
+            "shock",
+            "nausea",
+            "tachycardia",
+            "chest pain",
+            "dizziness",
+            "low blood pressure",
+            "loss of consciousness",
+            "vomiting",
+            "lightheadedness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Sudden cardiac arrest": [
+            "weakness",
+            "palpitation",
+            "loss of consciousness",
+            "chest discomfort"
+        ]
+    },
+    {
+        "Carcinoma of unknown primary": [
+            "pain",
+            "night sweats",
+            "diarrhea",
+            "fever",
+            "cough",
+            "constipation"
+        ]
+    },
+    {
+        "Boils and carbuncles": [
+            "pain",
+            "fever",
+            "boil",
+            "chills"
+        ]
+    },
+    {
+        "Carcinoid syndrome": [
+            "abdominal cramp",
+            "skin lesion",
+            "flushing",
+            "diarrhea",
+            "wheezing",
+            "cramp"
+        ]
+    },
+    {
+        "Carbon monoxide poisoning": [
+            "blurred vision",
+            "confusion",
+            "drowsiness",
+            "weakness",
+            "nausea",
+            "headache",
+            "memory loss",
+            "dizziness",
+            "fever",
+            "loss of consciousness",
+            "vomiting"
+        ]
+    },
+    {
+        "Yeast infection (vaginal)": [
+            "pain",
+            "vaginal discharge",
+            "itching",
+            "rash",
+            "discharge"
+        ]
+    },
+    {
+        "Hypertrophic cardiomyopathy": [
+            "pain",
+            "palpitation",
+            "chest pain"
+        ]
+    },
+    {
+        "Carotid artery disease": [
+            "severe headache",
+            "weakness",
+            "loss of balance",
+            "headache",
+            "dizziness"
+        ]
+    },
+    {
+        "Oral thrush": [
+            "bleeding",
+            "pain"
+        ]
+    },
+    {
+        "Wilms tumor": [
+            "pain",
+            "anemia",
+            "fever",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Vulvar cancer": [
+            "bleeding",
+            "pain",
+            "itching"
+        ]
+    },
+    {
+        "Vaginal cancer": [
+            "bleeding",
+            "pain",
+            "vaginal discharge",
+            "discharge",
+            "constipation"
+        ]
+    },
+    {
+        "Heart disease": [
+            "pain",
+            "weakness",
+            "bradycardia",
+            "endocarditis",
+            "extreme fatigue",
+            "arrhythmia",
+            "heart failure",
+            "weight gain",
+            "syncope",
+            "nausea",
+            "rash",
+            "tachycardia",
+            "cyanosis",
+            "chest pain",
+            "dizziness",
+            "fever",
+            "cough",
+            "fatigue",
+            "lightheadedness",
+            "overweight",
+            "chest discomfort",
+            "chest tightness",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Dilated cardiomyopathy": [
+            "pain",
+            "palpitation",
+            "edema",
+            "chest pain",
+            "dyspnea",
+            "fatigue"
+        ]
+    },
+    {
+        "Thyroid cancer": [
+            "pain",
+            "hoarseness"
+        ]
+    },
+    {
+        "Testicular cancer": [
+            "pain"
+        ]
+    },
+    {
+        "Throat cancer": [
+            "pain",
+            "weight loss",
+            "cough",
+            "hoarseness"
+        ]
+    },
+    {
+        "Rectal cancer": [
+            "pain",
+            "weakness",
+            "weight loss",
+            "abdominal pain",
+            "diarrhea",
+            "fatigue",
+            "constipation"
+        ]
+    },
+    {
+        "Prostate cancer": [
+            "pain",
+            "bone pain"
+        ]
+    },
+    {
+        "Soft tissue sarcoma": [
+            "pain",
+            "coma"
+        ]
+    },
+    {
+        "Skin cancer": [
+            "bleeding",
+            "pain",
+            "coma"
+        ]
+    },
+    {
+        "Squamous cell carcinoma of the skin": []
+    },
+    {
+        "Pancreatic cancer": [
+            "pain",
+            "weakness",
+            "weight loss",
+            "tiredness",
+            "loss of appetite",
+            "itching",
+            "jaundice"
+        ]
+    },
+    {
+        "Retinoblastoma": []
+    },
+    {
+        "Ovarian cancer": [
+            "pain",
+            "weight loss",
+            "bloating",
+            "fatigue",
+            "constipation"
+        ]
+    },
+    {
+        "Paraneoplastic syndromes of the nervous system": [
+            "ataxia",
+            "drowsiness",
+            "inflammation",
+            "encephalitis",
+            "muscle cramp",
+            "muscle weakness",
+            "pain",
+            "seizure",
+            "weakness",
+            "asthenia",
+            "double vision",
+            "dry mouth",
+            "slurred speech",
+            "itching",
+            "nausea",
+            "memory loss",
+            "sleep disturbance",
+            "hallucination",
+            "dizziness",
+            "cramp",
+            "low blood pressure",
+            "fatigue",
+            "blood pressure"
+        ]
+    },
+    {
+        "Non-Hodgkin's lymphoma": [
+            "pain",
+            "weight loss",
+            "night sweats",
+            "abdominal pain",
+            "chest pain",
+            "fever",
+            "cough",
+            "fatigue"
+        ]
+    },
+    {
+        "Nasopharyngeal carcinoma": [
+            "congestion",
+            "headache",
+            "discharge",
+            "nasal congestion"
+        ]
+    },
+    {
+        "Neuroblastoma": [
+            "pain",
+            "weight loss",
+            "ptosis",
+            "bruise",
+            "abdominal pain",
+            "diarrhea",
+            "chest pain",
+            "wheezing",
+            "fever",
+            "constipation",
+            "bone pain"
+        ]
+    },
+    {
+        "Merkel cell carcinoma": [
+            "pain"
+        ]
+    },
+    {
+        "Lung cancer": [
+            "pain",
+            "headache",
+            "chest pain",
+            "cough",
+            "hoarseness",
+            "bone pain"
+        ]
+    },
+    {
+        "Multiple myeloma": [
+            "confusion",
+            "pain",
+            "thirst",
+            "weakness",
+            "weight loss",
+            "tiredness",
+            "loss of appetite",
+            "nausea",
+            "constipation",
+            "bone pain"
+        ]
+    },
+    {
+        "Mesothelioma": [
+            "pain",
+            "weight loss",
+            "abdominal pain",
+            "nausea",
+            "abdominal swelling",
+            "chest pain",
+            "cough"
+        ]
+    },
+    {
+        "Male breast cancer": [
+            "bleeding",
+            "pain",
+            "discharge"
+        ]
+    },
+    {
+        "Hairy cell leukemia": [
+            "weakness",
+            "fatigue"
+        ]
+    },
+    {
+        "Liver cancer": [
+            "pain",
+            "weakness",
+            "loss of appetite",
+            "abdominal pain",
+            "nausea",
+            "abdominal swelling",
+            "jaundice",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Kidney cancer": [
+            "pain",
+            "weight loss",
+            "tiredness",
+            "loss of appetite",
+            "fever"
+        ]
+    },
+    {
+        "Stomach cancer": [
+            "pain",
+            "nausea",
+            "vomiting"
+        ]
+    },
+    {
+        "Gallbladder cancer": [
+            "pain",
+            "bloating",
+            "abdominal pain",
+            "jaundice"
+        ]
+    },
+    {
+        "Mouth cancer": [
+            "pain",
+            "mouth sore"
+        ]
+    },
+    {
+        "Hurthle cell cancer": [
+            "inflammation",
+            "pain",
+            "hoarseness"
+        ]
+    },
+    {
+        "Leukemia": [
+            "bleeding",
+            "pain",
+            "weakness",
+            "fever",
+            "petechiae",
+            "chills",
+            "fatigue",
+            "bone pain"
+        ]
+    },
+    {
+        "Hodgkin's lymphoma (Hodgkin's disease)": [
+            "pain",
+            "night sweats",
+            "itching",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Colon cancer": [
+            "bleeding",
+            "pain",
+            "weakness",
+            "tiredness",
+            "diarrhea",
+            "cramp",
+            "constipation"
+        ]
+    },
+    {
+        "Esophageal cancer": [
+            "pain",
+            "weight loss",
+            "dysphagia",
+            "chest pain",
+            "cough",
+            "hoarseness"
+        ]
+    },
+    {
+        "Eye melanoma": []
+    },
+    {
+        "Endometrial cancer": [
+            "bleeding",
+            "pain"
+        ]
+    },
+    {
+        "Breast cancer": []
+    },
+    {
+        "Bone cancer": [
+            "pain",
+            "weight loss",
+            "fatigue",
+            "bone pain"
+        ]
+    },
+    {
+        "Bladder cancer": [
+            "hematuria",
+            "pain"
+        ]
+    },
+    {
+        "Basal cell carcinoma": []
+    },
+    {
+        "Calciphylaxis": [
+            "bleeding",
+            "pain"
+        ]
+    },
+    {
+        "Chronic lymphocytic leukemia": [
+            "pain",
+            "weight loss",
+            "night sweats",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Chronic myelogenous leukemia": [
+            "bleeding",
+            "pain",
+            "weight loss",
+            "loss of appetite",
+            "fever",
+            "fatigue",
+            "bone pain"
+        ]
+    },
+    {
+        "Corns and calluses": [
+            "pain"
+        ]
+    },
+    {
+        "Cancer": [
+            "bleeding",
+            "joint pain",
+            "pain",
+            "night sweats",
+            "fever",
+            "cough",
+            "fatigue",
+            "hoarseness"
+        ]
+    },
+    {
+        "C. difficile infection": [
+            "dehydration",
+            "pain",
+            "weight loss",
+            "loss of appetite",
+            "nausea",
+            "diarrhea",
+            "fever",
+            "cramp"
+        ]
+    },
+    {
+        "Itchy skin (pruritus)": [
+            "blister"
+        ]
+    },
+    {
+        "Ischemic colitis": [
+            "pain",
+            "atrial fibrillation",
+            "nausea",
+            "diarrhea",
+            "cramp",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Cervical cancer": [
+            "bleeding",
+            "pain",
+            "vaginal discharge",
+            "discharge"
+        ]
+    },
+    {
+        "Pancreatic neuroendocrine tumors": [
+            "blurred vision",
+            "muscle cramp",
+            "pain",
+            "thirst",
+            "weakness",
+            "weight loss",
+            "rash",
+            "headache",
+            "diarrhea",
+            "dizziness",
+            "cramp",
+            "fatigue",
+            "constipation"
+        ]
+    },
+    {
+        "Carcinoid tumors": [
+            "bleeding",
+            "pain",
+            "weight gain",
+            "abdominal pain",
+            "nausea",
+            "flushing",
+            "diarrhea",
+            "chest pain",
+            "wheezing",
+            "vomiting"
+        ]
+    },
+    {
+        "Iritis": []
+    },
+    {
+        "Hemochromatosis": [
+            "joint pain",
+            "pain",
+            "weakness",
+            "heart failure",
+            "abdominal pain",
+            "fatigue"
+        ]
+    },
+    {
+        "Invasive lobular carcinoma": []
+    },
+    {
+        "Intussusception": [
+            "pain",
+            "weakness",
+            "nausea",
+            "diarrhea",
+            "vomiting"
+        ]
+    },
+    {
+        "Priapism": [
+            "pain"
+        ]
+    },
+    {
+        "Intracranial hematoma": [
+            "confusion",
+            "drowsiness",
+            "paralysis",
+            "lethargy",
+            "seizure",
+            "slurred speech",
+            "headache",
+            "dizziness",
+            "loss of consciousness",
+            "hematoma",
+            "vomiting"
+        ]
+    },
+    {
+        "Intestinal obstruction": [
+            "pain",
+            "loss of appetite",
+            "abdominal pain",
+            "cramp",
+            "vomiting",
+            "constipation"
+        ]
+    },
+    {
+        "Whipple's disease": [
+            "confusion",
+            "joint pain",
+            "pain",
+            "weakness",
+            "weight loss",
+            "anemia",
+            "memory loss",
+            "diarrhea",
+            "chest pain",
+            "fever",
+            "cough",
+            "cramp",
+            "fatigue"
+        ]
+    },
+    {
+        "Intestinal ischemia": [
+            "abdominal cramp",
+            "confusion",
+            "pain",
+            "weight loss",
+            "ischemia",
+            "bloating",
+            "abdominal pain",
+            "nausea",
+            "abdominal tenderness",
+            "diarrhea",
+            "cramp",
+            "vomiting"
+        ]
+    },
+    {
+        "Intermittent explosive disorder": [
+            "tremor",
+            "tiredness",
+            "palpitation",
+            "irritability",
+            "chest tightness"
+        ]
+    },
+    {
+        "Interstitial cystitis": [
+            "pain"
+        ]
+    },
+    {
+        "Metabolic syndrome": [
+            "blurred vision",
+            "thirst",
+            "fatigue"
+        ]
+    },
+    {
+        "Cholestasis of pregnancy": [
+            "loss of appetite",
+            "itching",
+            "nausea",
+            "rash",
+            "jaundice"
+        ]
+    },
+    {
+        "Claudication": [
+            "pain",
+            "claudication",
+            "muscle pain",
+            "fatigue"
+        ]
+    },
+    {
+        "Insomnia": [
+            "depression",
+            "tiredness",
+            "anxiety",
+            "insomnia",
+            "irritability"
+        ]
+    },
+    {
+        "Ductal carcinoma in situ (DCIS)": [
+            "discharge"
+        ]
+    },
+    {
+        "Ingrown hair": [
+            "blister",
+            "hyperpigmentation",
+            "itching"
+        ]
+    },
+    {
+        "Interstitial lung disease": [
+            "dry cough",
+            "cough"
+        ]
+    },
+    {
+        "Pericarditis": [
+            "pain",
+            "weakness",
+            "palpitation",
+            "chest pain",
+            "fever",
+            "cough",
+            "leg swelling",
+            "low-grade fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Cholecystitis": [
+            "pain",
+            "nausea",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Inguinal hernia": [
+            "pain",
+            "weakness",
+            "nausea",
+            "fever",
+            "cough",
+            "vomiting"
+        ]
+    },
+    {
+        "Influenza (flu)": [
+            "pain",
+            "sneezing",
+            "weakness",
+            "tiredness",
+            "headache",
+            "diarrhea",
+            "fever",
+            "cough",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Ingrown toenails": [
+            "pain"
+        ]
+    },
+    {
+        "H1N1 flu (swine flu)": [
+            "pain",
+            "weakness",
+            "tiredness",
+            "body ache",
+            "headache",
+            "diarrhea",
+            "fever",
+            "cough",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Infertility": [
+            "ear symptom",
+            "infertility"
+        ]
+    },
+    {
+        "Female infertility": [
+            "infertility"
+        ]
+    },
+    {
+        "Pancreatitis": [
+            "pain",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Male infertility": [
+            "pain",
+            "coma",
+            "infertility"
+        ]
+    },
+    {
+        "Inflammatory breast cancer": [
+            "pain",
+            "bruise"
+        ]
+    },
+    {
+        "Infectious diseases": [
+            "muscle ache",
+            "diarrhea",
+            "fever",
+            "cough",
+            "fatigue"
+        ]
+    },
+    {
+        "Urinary incontinence": [
+            "sneezing",
+            "urinary incontinence",
+            "urge incontinence",
+            "overflow incontinence",
+            "cough",
+            "stress incontinence",
+            "arthritis"
+        ]
+    },
+    {
+        "Bed-wetting": []
+    },
+    {
+        "Incompetent cervix": [
+            "backache",
+            "bleeding",
+            "vaginal discharge",
+            "discharge",
+            "cramp"
+        ]
+    },
+    {
+        "Fecal incontinence": [
+            "bloating",
+            "urge incontinence",
+            "diarrhea",
+            "constipation"
+        ]
+    },
+    {
+        "Infant jaundice": [
+            "jaundice"
+        ]
+    },
+    {
+        "Hemangioma": []
+    },
+    {
+        "Erectile dysfunction": []
+    },
+    {
+        "Indigestion": [
+            "pain",
+            "belching",
+            "bloating",
+            "nausea",
+            "vomiting"
+        ]
+    },
+    {
+        "Impetigo": [
+            "blister",
+            "pain",
+            "itching"
+        ]
+    },
+    {
+        "Illness anxiety disorder": [
+            "anxiety",
+            "rash"
+        ]
+    },
+    {
+        "Henoch-Schonlein purpura": [
+            "joint pain",
+            "pain",
+            "bloody stool",
+            "bruise",
+            "nausea",
+            "rash",
+            "vomiting",
+            "arthritis"
+        ]
+    },
+    {
+        "Immune thrombocytopenia (ITP)": [
+            "bleeding",
+            "thrombocytopenia",
+            "rash",
+            "cytopenia",
+            "petechiae"
+        ]
+    },
+    {
+        "Toe walking in children": []
+    },
+    {
+        "Irritable bowel syndrome": [
+            "pain",
+            "bloating",
+            "abdominal pain",
+            "diarrhea",
+            "cramp"
+        ]
+    },
+    {
+        "IgA nephropathy (Berger disease)": [
+            "confusion",
+            "muscle cramp",
+            "pain",
+            "weakness",
+            "tiredness",
+            "proteinuria",
+            "rash",
+            "edema",
+            "cramp",
+            "vomiting",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Pseudotumor cerebri (idiopathic intracranial hypertension)": [
+            "blindness",
+            "pain",
+            "severe headache",
+            "double vision",
+            "nausea",
+            "headache",
+            "dizziness",
+            "vomiting"
+        ]
+    },
+    {
+        "Inflammatory bowel disease (IBD)": [
+            "inflammation",
+            "pain",
+            "weight loss",
+            "abdominal pain",
+            "diarrhea",
+            "cramp",
+            "fatigue"
+        ]
+    },
+    {
+        "Impacted wisdom teeth": [
+            "bleeding",
+            "pain"
+        ]
+    },
+    {
+        "Prediabetes": [
+            "blurred vision",
+            "thirst",
+            "weight loss",
+            "fatigue"
+        ]
+    },
+    {
+        "Autism spectrum disorder": [
+            "pain"
+        ]
+    },
+    {
+        "Atypical hyperplasia of the breast": []
+    },
+    {
+        "Vaginal atrophy": [
+            "bleeding",
+            "vaginal discharge",
+            "itching",
+            "urinary incontinence",
+            "discharge"
+        ]
+    },
+    {
+        "Reactive attachment disorder": [
+            "irritability"
+        ]
+    },
+    {
+        "Atopic dermatitis (eczema)": [
+            "inflammation",
+            "eczema",
+            "rash"
+        ]
+    },
+    {
+        "Ataxia": [
+            "ataxia",
+            "nystagmus"
+        ]
+    },
+    {
+        "Astigmatism": [
+            "headache"
+        ]
+    },
+    {
+        "Atrioventricular canal defect": [
+            "pain",
+            "weakness",
+            "arrhythmia",
+            "heart failure",
+            "weight gain",
+            "nausea",
+            "wheezing",
+            "cough",
+            "fatigue",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Occupational asthma": [
+            "congestion",
+            "wheezing",
+            "cough",
+            "nasal congestion",
+            "chest tightness"
+        ]
+    },
+    {
+        "Athlete's foot": [
+            "blister",
+            "rash"
+        ]
+    },
+    {
+        "Atelectasis": [
+            "wheezing",
+            "cough"
+        ]
+    },
+    {
+        "Asthma": [
+            "pain",
+            "wheezing",
+            "cough",
+            "chest tightness"
+        ]
+    },
+    {
+        "Aspergillosis": [
+            "joint pain",
+            "skin lesion",
+            "pain",
+            "weight loss",
+            "headache",
+            "hemoptysis",
+            "wheezing",
+            "fever",
+            "cough",
+            "allergic reaction",
+            "eye symptom",
+            "chills",
+            "fatigue"
+        ]
+    },
+    {
+        "Asthma attack": [
+            "pain",
+            "wheezing",
+            "cough",
+            "chest tightness"
+        ]
+    },
+    {
+        "Exercise-induced asthma": [
+            "pain",
+            "wheezing",
+            "cough",
+            "fatigue",
+            "chest tightness"
+        ]
+    },
+    {
+        "Childhood asthma": [
+            "congestion",
+            "bronchitis",
+            "wheezing",
+            "cough",
+            "fatigue"
+        ]
+    },
+    {
+        "Asbestosis": [
+            "dry cough",
+            "pain",
+            "clubbing of fingers",
+            "cough",
+            "chest tightness"
+        ]
+    },
+    {
+        "Rheumatoid arthritis": [
+            "pain",
+            "loss of appetite",
+            "fever",
+            "arthritis",
+            "fatigue"
+        ]
+    },
+    {
+        "Avascular necrosis (osteonecrosis)": [
+            "pain",
+            "necrosis"
+        ]
+    },
+    {
+        "Atrial septal defect (ASD)": [
+            "arrhythmia",
+            "palpitation",
+            "fatigue"
+        ]
+    },
+    {
+        "Reactive arthritis": [
+            "inflammation",
+            "joint pain",
+            "pain",
+            "conjunctivitis",
+            "mouth sore",
+            "rash",
+            "arthritis"
+        ]
+    },
+    {
+        "Ascariasis": [
+            "pain",
+            "weight loss",
+            "bloody stool",
+            "abdominal pain",
+            "nausea",
+            "diarrhea",
+            "wheezing",
+            "cough",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Psoriatic arthritis": [
+            "inflammation",
+            "pain",
+            "arthritis",
+            "spondylitis"
+        ]
+    },
+    {
+        "Juvenile idiopathic arthritis": [
+            "joint pain",
+            "pain",
+            "rash",
+            "fever",
+            "high fever",
+            "arthritis"
+        ]
+    },
+    {
+        "Supraventricular tachycardia": [
+            "pain",
+            "weakness",
+            "poor feeding",
+            "syncope",
+            "tachycardia",
+            "palpitation",
+            "chest pain",
+            "dizziness",
+            "ventricular tachycardia",
+            "fatigue",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Gout": [
+            "inflammation",
+            "joint pain",
+            "pain"
+        ]
+    },
+    {
+        "Septic arthritis": [
+            "pain",
+            "fever",
+            "arthritis"
+        ]
+    },
+    {
+        "Thumb arthritis": [
+            "pain",
+            "arthritis"
+        ]
+    },
+    {
+        "Osteoarthritis": [
+            "inflammation",
+            "pain",
+            "arthritis"
+        ]
+    },
+    {
+        "Arthritis": [
+            "pain",
+            "arthritis"
+        ]
+    },
+    {
+        "Arteriosclerosis / atherosclerosis": [
+            "pain",
+            "weakness",
+            "loss of vision",
+            "slurred speech",
+            "claudication",
+            "chest pain",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Giant cell arteritis": [
+            "inflammation",
+            "pain",
+            "weight loss",
+            "double vision",
+            "loss of vision",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Takayasu's arteritis": [
+            "inflammation",
+            "pain",
+            "weakness",
+            "weight loss",
+            "anemia",
+            "night sweats",
+            "headache",
+            "diarrhea",
+            "chest pain",
+            "dizziness",
+            "fever",
+            "mild fever",
+            "fatigue",
+            "lightheadedness",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Heart arrhythmia": [
+            "pain",
+            "arrhythmia",
+            "anxiety",
+            "chest pain",
+            "dizziness",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Viral hemorrhagic fevers": [
+            "bleeding",
+            "delirium",
+            "weakness",
+            "nausea",
+            "diarrhea",
+            "coma",
+            "dizziness",
+            "fever",
+            "respiratory failure",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Appendicitis": [
+            "pain",
+            "loss of appetite",
+            "bloating",
+            "nausea",
+            "diarrhea",
+            "fever",
+            "cough",
+            "low-grade fever",
+            "vomiting",
+            "constipation"
+        ]
+    },
+    {
+        "Broken heart syndrome": [
+            "pain",
+            "chest pain"
+        ]
+    },
+    {
+        "Canker sore": [
+            "pain"
+        ]
+    },
+    {
+        "Primary progressive aphasia": [
+            "aphasia"
+        ]
+    },
+    {
+        "Auditory processing disorder (APD)": [
+            "hyperactivity"
+        ]
+    },
+    {
+        "Aortic valve stenosis": [
+            "pain",
+            "heart failure",
+            "palpitation",
+            "chest pain",
+            "fatigue"
+        ]
+    },
+    {
+        "Aphasia": [
+            "weakness",
+            "aphasia"
+        ]
+    },
+    {
+        "Arteriovenous malformation": [
+            "bleeding",
+            "confusion",
+            "paralysis",
+            "pain",
+            "seizure",
+            "weakness",
+            "heart failure",
+            "nausea",
+            "failure to thrive",
+            "headache",
+            "memory loss",
+            "hallucination",
+            "dizziness",
+            "loss of consciousness",
+            "vomiting"
+        ]
+    },
+    {
+        "Aortic valve regurgitation": [
+            "pain",
+            "weakness",
+            "tiredness",
+            "palpitation",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Arteriovenous fistula": [
+            "bleeding",
+            "heart failure",
+            "cyanosis",
+            "cough",
+            "fatigue",
+            "blood pressure"
+        ]
+    },
+    {
+        "Broken arm": [
+            "pain"
+        ]
+    },
+    {
+        "Chiari malformation": [
+            "pain",
+            "sneezing",
+            "weakness",
+            "tinnitus",
+            "headache",
+            "sleep apnea",
+            "apnea",
+            "dizziness",
+            "cough",
+            "neck pain",
+            "vomiting",
+            "hoarseness"
+        ]
+    },
+    {
+        "Anxiety disorders": [
+            "depression",
+            "pain",
+            "anxiety",
+            "palpitation",
+            "chest pain",
+            "hyperventilation",
+            "intense anxiety"
+        ]
+    },
+    {
+        "Aortic valve disease": [
+            "pain",
+            "chest pain",
+            "dizziness",
+            "fatigue"
+        ]
+    },
+    {
+        "Aortic dissection": [
+            "paralysis",
+            "pain",
+            "weakness",
+            "loss of consciousness"
+        ]
+    },
+    {
+        "Generalized anxiety disorder": [
+            "muscle ache",
+            "anxiety",
+            "nausea",
+            "diarrhea",
+            "irritability",
+            "fatigue"
+        ]
+    },
+    {
+        "Antiphospholipid syndrome": [
+            "bleeding",
+            "pain",
+            "thrombocytopenia",
+            "seizure",
+            "miscarriage",
+            "rash",
+            "headache",
+            "cytopenia",
+            "stillbirth",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Antisocial personality disorder": []
+    },
+    {
+        "Antibiotic-associated diarrhea": [
+            "dehydration",
+            "pain",
+            "loss of appetite",
+            "severe diarrhea",
+            "abdominal pain",
+            "nausea",
+            "diarrhea",
+            "fever",
+            "cramp",
+            "low-grade fever"
+        ]
+    },
+    {
+        "Social anxiety disorder (social phobia)": [
+            "anxiety",
+            "nausea",
+            "dizziness",
+            "lightheadedness",
+            "behavioral symptom"
+        ]
+    },
+    {
+        "Pseudomembranous colitis": [
+            "dehydration",
+            "pain",
+            "nausea",
+            "diarrhea",
+            "fever",
+            "cramp"
+        ]
+    },
+    {
+        "Anthrax": [
+            "pain",
+            "loss of appetite",
+            "muscle ache",
+            "shock",
+            "abdominal pain",
+            "nausea",
+            "headache",
+            "diarrhea",
+            "fever",
+            "cough",
+            "multiple organ failure",
+            "mild fever",
+            "high fever",
+            "vomiting",
+            "meningitis",
+            "fatigue",
+            "bloody diarrhea",
+            "chest discomfort"
+        ]
+    },
+    {
+        "Tongue-tie (ankyloglossia)": []
+    },
+    {
+        "Coarctation of the aorta": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "leg cramp",
+            "headache",
+            "chest pain",
+            "irritability",
+            "cramp",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Anorgasmia in women": []
+    },
+    {
+        "Anterior vaginal prolapse (cystocele)": [
+            "urinary incontinence",
+            "cough"
+        ]
+    },
+    {
+        "Broken ankle": [
+            "pain"
+        ]
+    },
+    {
+        "Sprained ankle": [
+            "pain"
+        ]
+    },
+    {
+        "Anorexia nervosa": [
+            "dehydration",
+            "pain",
+            "weight loss",
+            "weight gain",
+            "abdominal pain",
+            "anorexia",
+            "insomnia",
+            "dizziness",
+            "irritability",
+            "low blood pressure",
+            "vomiting",
+            "fatigue",
+            "constipation",
+            "behavioral symptom",
+            "blood pressure"
+        ]
+    },
+    {
+        "Ankylosing spondylitis": [
+            "pain",
+            "neck pain",
+            "spondylitis",
+            "fatigue"
+        ]
+    },
+    {
+        "Angiosarcoma": [
+            "pain",
+            "bruise",
+            "coma"
+        ]
+    },
+    {
+        "Castleman disease": [
+            "weight loss",
+            "night sweats",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Hives and angioedema": [
+            "pain",
+            "edema"
+        ]
+    },
+    {
+        "Angina": [
+            "pain",
+            "nausea",
+            "chest pain",
+            "dizziness",
+            "fatigue"
+        ]
+    },
+    {
+        "Vasculitis": [
+            "bleeding",
+            "blindness",
+            "pain",
+            "vasculitis",
+            "weakness",
+            "weight loss",
+            "double vision",
+            "headache",
+            "dizziness",
+            "fever",
+            "cough",
+            "fatigue"
+        ]
+    },
+    {
+        "Angelman syndrome": [
+            "seizure"
+        ]
+    },
+    {
+        "Thoracic aortic aneurysm": [
+            "pain",
+            "cough",
+            "low blood pressure",
+            "loss of consciousness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Popliteal artery aneurysm": [
+            "pain",
+            "change in skin color",
+            "claudication",
+            "knee pain",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Brain aneurysm": [
+            "confusion",
+            "pain",
+            "seizure",
+            "severe headache",
+            "dilated pupil",
+            "double vision",
+            "stiff neck",
+            "nausea",
+            "headache",
+            "loss of consciousness",
+            "vomiting"
+        ]
+    },
+    {
+        "Iron deficiency anemia": [
+            "inflammation",
+            "pain",
+            "weakness",
+            "anemia",
+            "extreme fatigue",
+            "headache",
+            "chest pain",
+            "dizziness",
+            "fatigue",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Sickle cell anemia": [
+            "pain",
+            "anemia",
+            "chronic pain",
+            "fatigue"
+        ]
+    },
+    {
+        "Thalassemia": [
+            "weakness",
+            "abdominal swelling",
+            "fatigue",
+            "dark urine"
+        ]
+    },
+    {
+        "Vitamin deficiency anemia": [
+            "confusion",
+            "muscle weakness",
+            "weakness",
+            "weight loss",
+            "anemia",
+            "dizziness",
+            "fatigue"
+        ]
+    },
+    {
+        "Anal itching": [
+            "inflammation",
+            "itching"
+        ]
+    },
+    {
+        "Anal fistula": [
+            "pain",
+            "fever"
+        ]
+    },
+    {
+        "Anemia": [
+            "pain",
+            "weakness",
+            "tiredness",
+            "anemia",
+            "headache",
+            "chest pain",
+            "dizziness",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Aplastic anemia": [
+            "bleeding",
+            "anemia",
+            "rash",
+            "headache",
+            "dizziness",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Anaphylaxis": [
+            "hypotension",
+            "itching",
+            "nausea",
+            "diarrhea",
+            "wheezing",
+            "dizziness",
+            "low blood pressure",
+            "vomiting",
+            "blood pressure"
+        ]
+    },
+    {
+        "Anal fissure": [
+            "pain"
+        ]
+    },
+    {
+        "Anal cancer": [
+            "bleeding",
+            "pain",
+            "itching"
+        ]
+    },
+    {
+        "Amenorrhea": [
+            "pain",
+            "hair loss",
+            "headache",
+            "discharge"
+        ]
+    },
+    {
+        "Amyloidosis": [
+            "pain",
+            "weakness",
+            "diarrhea",
+            "fatigue",
+            "constipation"
+        ]
+    },
+    {
+        "Lazy eye (amblyopia)": []
+    },
+    {
+        "Dry socket": [
+            "pain"
+        ]
+    },
+    {
+        "Ampullary cancer": [
+            "bleeding",
+            "pain",
+            "weight loss",
+            "abdominal pain",
+            "nausea",
+            "jaundice",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Amyotrophic lateral sclerosis (ALS)": [
+            "muscle cramp",
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "slurred speech",
+            "itching",
+            "cramp",
+            "hand weakness"
+        ]
+    },
+    {
+        "Transient global amnesia": [
+            "confusion",
+            "seizure",
+            "memory loss"
+        ]
+    },
+    {
+        "Ambiguous genitalia": []
+    },
+    {
+        "Alzheimer's disease": [
+            "depression",
+            "memory loss"
+        ]
+    },
+    {
+        "Ameloblastoma": [
+            "pain"
+        ]
+    },
+    {
+        "Amnesia": [
+            "confusion",
+            "disorientation",
+            "memory loss"
+        ]
+    },
+    {
+        "Hair loss": [
+            "pain",
+            "hair loss",
+            "shock"
+        ]
+    },
+    {
+        "Nickel allergy": [
+            "blister",
+            "itching",
+            "rash",
+            "allergic reaction"
+        ]
+    },
+    {
+        "Peanut allergy": [
+            "itching",
+            "shock",
+            "nausea",
+            "diarrhea",
+            "wheezing",
+            "dizziness",
+            "cramp",
+            "loss of consciousness",
+            "vomiting",
+            "lightheadedness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Shellfish allergy": [
+            "pain",
+            "congestion",
+            "itching",
+            "shock",
+            "nausea",
+            "rash",
+            "diarrhea",
+            "wheezing",
+            "dizziness",
+            "cough",
+            "allergic reaction",
+            "vomiting",
+            "lightheadedness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Pet allergy": [
+            "inflammation",
+            "pain",
+            "sneezing",
+            "congestion",
+            "eczema",
+            "wheezing",
+            "cough",
+            "nasal congestion",
+            "chest tightness"
+        ]
+    },
+    {
+        "Alpha-gal syndrome": [
+            "pain",
+            "itching",
+            "diarrhea",
+            "wheezing",
+            "allergic reaction",
+            "vomiting"
+        ]
+    },
+    {
+        "Wheat allergy": [
+            "pain",
+            "congestion",
+            "itching",
+            "nausea",
+            "rash",
+            "headache",
+            "diarrhea",
+            "chest pain",
+            "dizziness",
+            "cramp",
+            "nasal congestion",
+            "vomiting"
+        ]
+    },
+    {
+        "Penicillin allergy": [
+            "abdominal cramp",
+            "blister",
+            "confusion",
+            "hepatitis",
+            "inflammation",
+            "joint pain",
+            "nephritis",
+            "pain",
+            "seizure",
+            "anemia",
+            "itching",
+            "nausea",
+            "rash",
+            "headache",
+            "diarrhea",
+            "wheezing",
+            "dizziness",
+            "fever",
+            "cramp",
+            "loss of consciousness",
+            "allergic reaction",
+            "vomiting",
+            "fatigue",
+            "lightheadedness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Egg allergy": [
+            "inflammation",
+            "pain",
+            "sneezing",
+            "congestion",
+            "shock",
+            "abdominal pain",
+            "nausea",
+            "wheezing",
+            "dizziness",
+            "cough",
+            "cramp",
+            "loss of consciousness",
+            "nasal congestion",
+            "allergic reaction",
+            "vomiting",
+            "lightheadedness",
+            "chest tightness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Dust mite allergy": [
+            "inflammation",
+            "pain",
+            "sneezing",
+            "congestion",
+            "eczema",
+            "wheezing",
+            "cough",
+            "nasal congestion",
+            "chest tightness"
+        ]
+    },
+    {
+        "Latex allergy": [
+            "confusion",
+            "sneezing",
+            "itching",
+            "nausea",
+            "rash",
+            "wheezing",
+            "dizziness",
+            "cough",
+            "loss of consciousness",
+            "allergic reaction",
+            "vomiting",
+            "blood pressure"
+        ]
+    },
+    {
+        "Food allergy": [
+            "pain",
+            "congestion",
+            "eczema",
+            "itching",
+            "shock",
+            "abdominal pain",
+            "nausea",
+            "diarrhea",
+            "wheezing",
+            "coma",
+            "dizziness",
+            "loss of consciousness",
+            "nasal congestion",
+            "allergic reaction",
+            "vomiting",
+            "lightheadedness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Milk allergy": [
+            "abdominal cramp",
+            "colic",
+            "bloating",
+            "itching",
+            "shock",
+            "flushing",
+            "diarrhea",
+            "wheezing",
+            "cough",
+            "cramp",
+            "vomiting",
+            "blood pressure"
+        ]
+    },
+    {
+        "Mold allergy": [
+            "sneezing",
+            "wheezing",
+            "cough",
+            "chest tightness"
+        ]
+    },
+    {
+        "Alcohol intolerance": [
+            "nausea",
+            "flushing",
+            "diarrhea",
+            "low blood pressure",
+            "vomiting",
+            "blood pressure"
+        ]
+    },
+    {
+        "Albinism": [
+            "blindness",
+            "blurred vision",
+            "photophobia",
+            "nystagmus"
+        ]
+    },
+    {
+        "Alcohol poisoning": [
+            "confusion",
+            "seizure",
+            "hypothermia",
+            "vomiting"
+        ]
+    },
+    {
+        "Airplane ear": [
+            "bleeding",
+            "pain",
+            "tinnitus",
+            "vertigo"
+        ]
+    },
+    {
+        "Hay fever": [
+            "conjunctivitis",
+            "sneezing",
+            "tiredness",
+            "body ache",
+            "congestion",
+            "bruise",
+            "fever",
+            "cough",
+            "discharge",
+            "low-grade fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Allergies": [
+            "conjunctivitis",
+            "sneezing",
+            "eczema",
+            "itching",
+            "shock",
+            "nausea",
+            "rash",
+            "edema",
+            "wheezing",
+            "fever",
+            "cough",
+            "loss of consciousness",
+            "allergic reaction",
+            "vomiting",
+            "lightheadedness",
+            "chest tightness",
+            "blood pressure"
+        ]
+    },
+    {
+        "Alcoholic hepatitis": [
+            "confusion",
+            "hepatitis",
+            "weakness",
+            "loss of appetite",
+            "nausea",
+            "abdominal tenderness",
+            "ascites",
+            "jaundice",
+            "fever",
+            "vomiting",
+            "fatigue"
+        ]
+    },
+    {
+        "Churg-Strauss syndrome": [
+            "bleeding",
+            "pain",
+            "sinusitis",
+            "weakness",
+            "weight loss",
+            "loss of appetite",
+            "abdominal pain",
+            "rash",
+            "gastrointestinal bleeding",
+            "muscle pain",
+            "fatigue"
+        ]
+    },
+    {
+        "Adult Still disease": [
+            "pain",
+            "rash",
+            "fever",
+            "muscle pain"
+        ]
+    },
+    {
+        "Age spots (liver spots)": []
+    },
+    {
+        "Agoraphobia": [
+            "pain",
+            "anxiety",
+            "flushing",
+            "diarrhea",
+            "chest pain",
+            "dizziness",
+            "chills",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Adrenal cancer": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "loss of appetite",
+            "weight gain",
+            "bloating",
+            "hair loss",
+            "nausea",
+            "edema",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Childhood schizophrenia": [
+            "hallucination",
+            "irritability",
+            "aggressive behavior",
+            "agitation"
+        ]
+    },
+    {
+        "Adjustment disorders": []
+    },
+    {
+        "Adult attention-deficit/hyperactivity disorder (ADHD)": [
+            "depression",
+            "anxiety"
+        ]
+    },
+    {
+        "Attention-deficit/hyperactivity disorder (ADHD) in children": [
+            "hyperactivity"
+        ]
+    },
+    {
+        "Adenomyosis": [
+            "bleeding",
+            "pain",
+            "dyspareunia",
+            "cramp"
+        ]
+    },
+    {
+        "Mesenteric lymphadenitis": [
+            "pain",
+            "nausea",
+            "diarrhea",
+            "fever",
+            "vomiting",
+            "lymphadenitis"
+        ]
+    },
+    {
+        "Dry macular degeneration": [
+            "blindness",
+            "pain",
+            "blind spot"
+        ]
+    },
+    {
+        "Myelofibrosis": [
+            "bleeding",
+            "pain",
+            "anemia",
+            "night sweats",
+            "fever",
+            "bone pain"
+        ]
+    },
+    {
+        "Frozen shoulder": [
+            "pain"
+        ]
+    },
+    {
+        "Wet macular degeneration": [
+            "blindness",
+            "blind spot"
+        ]
+    },
+    {
+        "ARDS": [
+            "confusion",
+            "tiredness",
+            "low blood pressure",
+            "blood pressure"
+        ]
+    },
+    {
+        "Acute sinusitis": [
+            "pain",
+            "sinusitis",
+            "tiredness",
+            "congestion",
+            "headache",
+            "fever",
+            "cough"
+        ]
+    },
+    {
+        "Compulsive gambling": [
+            "depression",
+            "anxiety"
+        ]
+    },
+    {
+        "Nicotine dependence": [
+            "anxiety",
+            "diarrhea",
+            "insomnia",
+            "irritability",
+            "constipation"
+        ]
+    },
+    {
+        "Radiation sickness": [
+            "bleeding",
+            "disorientation",
+            "weakness",
+            "hair loss",
+            "nausea",
+            "headache",
+            "diarrhea",
+            "dizziness",
+            "fever",
+            "low blood pressure",
+            "vomiting",
+            "fatigue",
+            "blood pressure"
+        ]
+    },
+    {
+        "Addison's disease": [
+            "confusion",
+            "dehydration",
+            "delirium",
+            "depression",
+            "joint pain",
+            "pain",
+            "weakness",
+            "weight loss",
+            "extreme fatigue",
+            "loss of appetite",
+            "hair loss",
+            "shock",
+            "abdominal pain",
+            "nausea",
+            "diarrhea",
+            "irritability",
+            "low blood pressure",
+            "renal failure",
+            "vomiting",
+            "fatigue",
+            "blood pressure"
+        ]
+    },
+    {
+        "Acute lymphocytic leukemia": [
+            "bleeding",
+            "pain",
+            "weakness",
+            "fever",
+            "fatigue",
+            "bone pain"
+        ]
+    },
+    {
+        "Acute liver failure": [
+            "confusion",
+            "disorientation",
+            "pain",
+            "tremor",
+            "nausea",
+            "ascites",
+            "jaundice",
+            "vomiting",
+            "malaise"
+        ]
+    },
+    {
+        "Acute kidney failure": [
+            "confusion",
+            "pain",
+            "seizure",
+            "weakness",
+            "nausea",
+            "chest pain",
+            "coma",
+            "fatigue"
+        ]
+    },
+    {
+        "Acute flaccid myelitis (AFM)": [
+            "pain",
+            "weakness",
+            "leg weakness",
+            "slurred speech",
+            "respiratory failure",
+            "blood pressure"
+        ]
+    },
+    {
+        "Actinic keratosis": [
+            "bleeding",
+            "itching"
+        ]
+    },
+    {
+        "Acromegaly": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "headache",
+            "fatigue"
+        ]
+    },
+    {
+        "Acoustic neuroma": [
+            "weakness",
+            "loss of balance",
+            "tinnitus",
+            "dizziness"
+        ]
+    },
+    {
+        "Hidradenitis suppurativa": [
+            "pain"
+        ]
+    },
+    {
+        "HIV/AIDS": [
+            "joint pain",
+            "pain",
+            "weakness",
+            "weight loss",
+            "mouth sore",
+            "muscle ache",
+            "night sweats",
+            "rash",
+            "headache",
+            "diarrhea",
+            "fever",
+            "cough",
+            "chills",
+            "fatigue"
+        ]
+    },
+    {
+        "Alcohol use disorder": [
+            "seizure",
+            "tremor",
+            "slurred speech",
+            "anxiety",
+            "nausea",
+            "coma",
+            "hallucination",
+            "vomiting",
+            "agitation"
+        ]
+    },
+    {
+        "ACL injury": [
+            "pain"
+        ]
+    },
+    {
+        "Acne": [
+            "inflammation",
+            "pain",
+            "papule",
+            "boil",
+            "pustule"
+        ]
+    },
+    {
+        "Gastroesophageal reflux disease (GERD)": [
+            "inflammation",
+            "laryngitis",
+            "pain",
+            "dysphagia",
+            "chest pain",
+            "cough"
+        ]
+    },
+    {
+        "Infant reflux": []
+    },
+    {
+        "Guillain-Barre syndrome": [
+            "paralysis",
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "double vision",
+            "cramp",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Acute myelogenous leukemia": [
+            "bleeding",
+            "lethargy",
+            "pain",
+            "fever",
+            "fatigue",
+            "bone pain"
+        ]
+    },
+    {
+        "Acute coronary syndrome": [
+            "pain",
+            "nausea",
+            "chest pain",
+            "vomiting",
+            "dyspnea",
+            "fatigue"
+        ]
+    },
+    {
+        "Achilles tendinitis": [
+            "pain"
+        ]
+    },
+    {
+        "Achalasia": [
+            "pain",
+            "weight loss",
+            "belching",
+            "inability to swallow",
+            "dysphagia",
+            "chest pain",
+            "cough",
+            "vomiting"
+        ]
+    },
+    {
+        "Achilles tendon rupture": [
+            "pain"
+        ]
+    },
+    {
+        "Bartholin's cyst": [
+            "pain",
+            "fever",
+            "abscess"
+        ]
+    },
+    {
+        "Hyperhidrosis": []
+    },
+    {
+        "Acanthosis nigricans": []
+    },
+    {
+        "Abdominal aortic aneurysm": [
+            "pain"
+        ]
+    },
+    {
+        "Atrial fibrillation": [
+            "pain",
+            "weakness",
+            "atrial fibrillation",
+            "palpitation",
+            "chest pain",
+            "dizziness",
+            "fatigue",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Absence seizure": [
+            "confusion",
+            "drowsiness",
+            "seizure",
+            "headache"
+        ]
+    },
+    {
+        "Rhabdomyosarcoma": [
+            "bleeding",
+            "pain",
+            "headache",
+            "coma"
+        ]
+    },
+    {
+        "Reye's syndrome": [
+            "confusion",
+            "seizure",
+            "weakness",
+            "diarrhea",
+            "convulsion",
+            "loss of consciousness",
+            "vomiting"
+        ]
+    },
+    {
+        "Rheumatic fever": [
+            "inflammation",
+            "pain",
+            "rash",
+            "chest pain",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Ruptured spleen": [
+            "confusion",
+            "pain",
+            "shoulder pain",
+            "dizziness",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Rumination syndrome": [
+            "pain",
+            "nausea"
+        ]
+    },
+    {
+        "Spinal stenosis": [
+            "pain",
+            "weakness",
+            "cramp",
+            "neck pain"
+        ]
+    },
+    {
+        "Rotavirus": [
+            "pain",
+            "abdominal pain",
+            "diarrhea",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Rett syndrome": [
+            "muscle weakness",
+            "pain",
+            "seizure",
+            "weakness",
+            "anxiety",
+            "sleep disturbance",
+            "apnea",
+            "hyperventilation",
+            "irritability",
+            "breathing problems",
+            "contracture"
+        ]
+    },
+    {
+        "Retrograde ejaculation": [
+            "infertility"
+        ]
+    },
+    {
+        "Wrinkles": []
+    },
+    {
+        "Retractile testicle": []
+    },
+    {
+        "Zollinger-Ellison syndrome": [
+            "bleeding",
+            "pain",
+            "loss of appetite",
+            "nausea",
+            "diarrhea",
+            "vomiting"
+        ]
+    },
+    {
+        "Retinal diseases": []
+    },
+    {
+        "Von Willebrand disease": [
+            "bleeding",
+            "tiredness",
+            "anemia",
+            "bruise",
+            "fatigue"
+        ]
+    },
+    {
+        "Wilson's disease": [
+            "pain",
+            "abdominal pain",
+            "jaundice",
+            "fatigue"
+        ]
+    },
+    {
+        "Vertebral tumor": [
+            "paralysis",
+            "muscle weakness",
+            "pain",
+            "weakness"
+        ]
+    },
+    {
+        "Yips": [
+            "tremor",
+            "anxiety",
+            "cramp"
+        ]
+    },
+    {
+        "Vitiligo": []
+    },
+    {
+        "Vocal cord paralysis": [
+            "paralysis",
+            "inability to speak",
+            "cough",
+            "hoarseness"
+        ]
+    },
+    {
+        "Ventricular tachycardia": [
+            "pain",
+            "tachycardia",
+            "palpitation",
+            "chest pain",
+            "dizziness",
+            "loss of consciousness",
+            "ventricular tachycardia",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Varicose veins": [
+            "muscle cramp",
+            "pain",
+            "itching",
+            "cramp"
+        ]
+    },
+    {
+        "Ventricular fibrillation": [
+            "pain",
+            "arrhythmia",
+            "nausea",
+            "tachycardia",
+            "chest pain",
+            "dizziness",
+            "loss of consciousness",
+            "ventricular fibrillation"
+        ]
+    },
+    {
+        "Congenital heart defects in children": [
+            "wheezing",
+            "cough",
+            "vomiting"
+        ]
+    },
+    {
+        "Varicocele": [
+            "pain",
+            "infertility"
+        ]
+    },
+    {
+        "X-linked agammaglobulinemia": [
+            "arthritis"
+        ]
+    },
+    {
+        "Typhoid fever": [
+            "pain",
+            "weakness",
+            "loss of appetite",
+            "muscle ache",
+            "rash",
+            "headache",
+            "diarrhea",
+            "fever",
+            "cough",
+            "chills",
+            "fatigue",
+            "constipation"
+        ]
+    },
+    {
+        "Vaginitis": [
+            "bleeding",
+            "pain",
+            "vaginal discharge",
+            "itching",
+            "discharge"
+        ]
+    },
+    {
+        "Truncus arteriosus": [
+            "poor feeding"
+        ]
+    },
+    {
+        "Triple X syndrome": [
+            "depression",
+            "seizure",
+            "anxiety",
+            "hyperactivity"
+        ]
+    },
+    {
+        "Tricuspid valve regurgitation": [
+            "arrhythmia",
+            "fatigue"
+        ]
+    },
+    {
+        "Tricuspid atresia": [
+            "weakness",
+            "heart failure",
+            "weight gain",
+            "ascites",
+            "fatigue"
+        ]
+    },
+    {
+        "Trichinosis": [
+            "pain",
+            "conjunctivitis",
+            "weakness",
+            "tiredness",
+            "nausea",
+            "headache",
+            "diarrhea",
+            "fever",
+            "high fever",
+            "vomiting",
+            "muscle pain",
+            "chills",
+            "fatigue"
+        ]
+    },
+    {
+        "Transverse myelitis": [
+            "paralysis",
+            "pain",
+            "weakness",
+            "urinary incontinence",
+            "constipation"
+        ]
+    },
+    {
+        "Trichomoniasis": [
+            "pain",
+            "itching",
+            "discharge"
+        ]
+    },
+    {
+        "Trachoma": [
+            "inflammation",
+            "pain",
+            "photophobia",
+            "eye discharge",
+            "itching",
+            "discharge",
+            "light sensitivity"
+        ]
+    },
+    {
+        "Transposition of the great arteries": [
+            "weight gain"
+        ]
+    },
+    {
+        "Turner syndrome": [
+            "edema",
+            "short stature"
+        ]
+    },
+    {
+        "Whiplash": [
+            "blurred vision",
+            "depression",
+            "pain",
+            "tinnitus",
+            "headache",
+            "sleep disturbance",
+            "dizziness",
+            "irritability",
+            "neck pain",
+            "fatigue"
+        ]
+    },
+    {
+        "Vaginal agenesis": [
+            "pain",
+            "abdominal pain",
+            "cramp"
+        ]
+    },
+    {
+        "Tuberous sclerosis": [
+            "seizure",
+            "cough",
+            "hyperactivity"
+        ]
+    },
+    {
+        "Toxoplasmosis": [
+            "blindness",
+            "confusion",
+            "hydrocephalus",
+            "inflammation",
+            "encephalitis",
+            "muscle weakness",
+            "pain",
+            "seizure",
+            "weakness",
+            "miscarriage",
+            "muscle ache",
+            "rash",
+            "headache",
+            "jaundice",
+            "fever",
+            "cough",
+            "breathing problems"
+        ]
+    },
+    {
+        "Tonsillitis": [
+            "pain",
+            "stiff neck",
+            "headache",
+            "fever",
+            "neck pain"
+        ]
+    },
+    {
+        "Tourette syndrome": [
+            "hopping",
+            "itching",
+            "cough"
+        ]
+    },
+    {
+        "Tooth abscess": [
+            "pain",
+            "toothache",
+            "fever",
+            "abscess"
+        ]
+    },
+    {
+        "Toxic shock syndrome": [
+            "confusion",
+            "seizure",
+            "muscle ache",
+            "shock",
+            "rash",
+            "headache",
+            "diarrhea",
+            "fever",
+            "low blood pressure",
+            "high fever",
+            "vomiting",
+            "blood pressure"
+        ]
+    },
+    {
+        "Thoracic outlet syndrome": [
+            "pain",
+            "fatigue"
+        ]
+    },
+    {
+        "Thyroid nodules": [
+            "tremor",
+            "weight loss"
+        ]
+    },
+    {
+        "Testicular torsion": [
+            "pain",
+            "abdominal pain",
+            "nausea",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Tendinitis": [
+            "pain"
+        ]
+    },
+    {
+        "Tonsil cancer": [
+            "pain",
+            "earache"
+        ]
+    },
+    {
+        "TMJ disorders": [
+            "pain"
+        ]
+    },
+    {
+        "TEN": [
+            "blister",
+            "pain",
+            "rash"
+        ]
+    },
+    {
+        "Thrombocytosis": [
+            "bleeding",
+            "confusion",
+            "pain",
+            "weakness",
+            "bloody stool",
+            "nausea",
+            "headache",
+            "chest pain"
+        ]
+    },
+    {
+        "Transient ischemic attack (TIA)": [
+            "blindness",
+            "paralysis",
+            "weakness",
+            "double vision",
+            "loss of balance",
+            "vertigo"
+        ]
+    },
+    {
+        "Tongue cancer": [
+            "bleeding",
+            "pain",
+            "weight loss",
+            "cough"
+        ]
+    },
+    {
+        "Tuberculosis": [
+            "pain",
+            "weight loss",
+            "tiredness",
+            "night sweats",
+            "poor feeding",
+            "chest pain",
+            "fever",
+            "cough",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Tay-Sachs disease": [
+            "blindness",
+            "deafness",
+            "paralysis",
+            "muscle weakness",
+            "seizure",
+            "tremor",
+            "weakness",
+            "loss of vision"
+        ]
+    },
+    {
+        "Traumatic brain injury": [
+            "blurred vision",
+            "confusion",
+            "drowsiness",
+            "seizure",
+            "weakness",
+            "loss of balance",
+            "slurred speech",
+            "nausea",
+            "headache",
+            "convulsion",
+            "coma",
+            "dizziness",
+            "irritability",
+            "loss of consciousness",
+            "vomiting",
+            "fatigue",
+            "agitation"
+        ]
+    },
+    {
+        "Congenital heart defects in children": [
+            "cyanosis"
+        ]
+    },
+    {
+        "Tapeworm infection": [
+            "muscle weakness",
+            "pain",
+            "seizure",
+            "weakness",
+            "weight loss",
+            "headache",
+            "diarrhea",
+            "dizziness"
+        ]
+    },
+    {
+        "Systemic mastocytosis": [
+            "bleeding",
+            "depression",
+            "inflammation",
+            "pain",
+            "anemia",
+            "itching",
+            "abdominal pain",
+            "nausea",
+            "flushing",
+            "diarrhea",
+            "vomiting",
+            "muscle pain"
+        ]
+    },
+    {
+        "Syringomyelia": [
+            "muscle weakness",
+            "pain",
+            "wasting",
+            "weakness",
+            "headache",
+            "cough"
+        ]
+    },
+    {
+        "Syphilis": [
+            "deafness",
+            "pain",
+            "sneezing",
+            "weight loss",
+            "tiredness",
+            "anemia",
+            "muscle ache",
+            "hair loss",
+            "rash",
+            "jaundice",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Swollen knee": [
+            "pain"
+        ]
+    },
+    {
+        "Suspicious breast lumps": []
+    },
+    {
+        "Suicide and suicidal thoughts": []
+    },
+    {
+        "Sun allergy": [
+            "blister",
+            "rash",
+            "flushing"
+        ]
+    },
+    {
+        "Sunburn": [
+            "blister",
+            "pain",
+            "itching",
+            "nausea",
+            "headache",
+            "fever",
+            "fatigue"
+        ]
+    },
+    {
+        "Trigger finger": []
+    },
+    {
+        "Staph infections": [
+            "cellulitis",
+            "blister",
+            "confusion",
+            "dehydration",
+            "pain",
+            "endocarditis",
+            "muscle ache",
+            "shock",
+            "nausea",
+            "rash",
+            "diarrhea",
+            "fever",
+            "discharge",
+            "abscess",
+            "low blood pressure",
+            "high fever",
+            "vomiting",
+            "boil",
+            "arthritis",
+            "meningitis",
+            "blood pressure"
+        ]
+    },
+    {
+        "Stretch marks": []
+    },
+    {
+        "Strep throat": [
+            "inflammation",
+            "pain",
+            "body ache",
+            "nausea",
+            "rash",
+            "headache",
+            "throat pain",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Stress incontinence": [
+            "cough",
+            "stress incontinence"
+        ]
+    },
+    {
+        "Sprains": [
+            "pain"
+        ]
+    },
+    {
+        "Stuttering": [
+            "tremor",
+            "anxiety"
+        ]
+    },
+    {
+        "Spinal arteriovenous malformation (AVM)": [
+            "pain",
+            "weakness",
+            "stiff neck",
+            "headache"
+        ]
+    },
+    {
+        "Specific phobias": [
+            "anxiety"
+        ]
+    },
+    {
+        "Spina bifida": []
+    },
+    {
+        "Spider bites": [
+            "pain",
+            "tremor",
+            "body ache",
+            "abdominal rigidity",
+            "nausea",
+            "fever",
+            "cramp",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Soft palate cancer": [
+            "bleeding",
+            "pain",
+            "weight loss"
+        ]
+    },
+    {
+        "Sleepwalking": [
+            "confusion"
+        ]
+    },
+    {
+        "Small bowel cancer": [
+            "pain",
+            "abdominal pain",
+            "nausea",
+            "flushing",
+            "jaundice",
+            "diarrhea",
+            "vomiting"
+        ]
+    },
+    {
+        "Snoring": [
+            "pain",
+            "headache",
+            "chest pain",
+            "sleep apnea",
+            "apnea",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Sleep terrors (night terrors)": [
+            "dilated pupil",
+            "rash",
+            "aggressive behavior"
+        ]
+    },
+    {
+        "Sleep apnea": [
+            "dry mouth",
+            "headache",
+            "insomnia",
+            "sleep apnea",
+            "hypersomnia",
+            "apnea",
+            "irritability"
+        ]
+    },
+    {
+        "Sleep disorders": []
+    },
+    {
+        "Short bowel syndrome": [
+            "weight loss",
+            "edema",
+            "diarrhea",
+            "fatigue"
+        ]
+    },
+    {
+        "Sjogren's syndrome": [
+            "dry cough",
+            "joint pain",
+            "pain",
+            "dry mouth",
+            "rash",
+            "cough",
+            "fatigue"
+        ]
+    },
+    {
+        "Shigella infection": [
+            "pain",
+            "nausea",
+            "diarrhea",
+            "fever",
+            "cramp",
+            "vomiting"
+        ]
+    },
+    {
+        "Shaken baby syndrome": [
+            "bleeding",
+            "paralysis",
+            "seizure",
+            "coma",
+            "irritability",
+            "breathing problems",
+            "vomiting"
+        ]
+    },
+    {
+        "Smallpox": [
+            "blister",
+            "pain",
+            "muscle ache",
+            "rash",
+            "headache",
+            "fever",
+            "vomiting",
+            "pustule",
+            "fatigue"
+        ]
+    },
+    {
+        "Somatic symptom disorder": [
+            "pain",
+            "weakness",
+            "general symptom",
+            "fatigue"
+        ]
+    },
+    {
+        "Small bowel prolapse (enterocele)": [
+            "pain",
+            "dyspareunia"
+        ]
+    },
+    {
+        "Sexually transmitted diseases (STDs)": [
+            "bleeding",
+            "pain",
+            "vaginal discharge",
+            "abdominal pain",
+            "rash",
+            "fever",
+            "discharge"
+        ]
+    },
+    {
+        "Serotonin syndrome": [
+            "confusion",
+            "seizure",
+            "tremor",
+            "dilated pupil",
+            "itching",
+            "headache",
+            "diarrhea",
+            "insomnia",
+            "fever",
+            "high fever",
+            "agitation",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Ventricular septal defect (VSD)": [
+            "failure to thrive"
+        ]
+    },
+    {
+        "Severe acute respiratory syndrome (SARS)": [
+            "dry cough",
+            "muscle ache",
+            "headache",
+            "diarrhea",
+            "fever",
+            "cough",
+            "chills"
+        ]
+    },
+    {
+        "Sepsis": [
+            "confusion",
+            "pain",
+            "shock",
+            "septic shock",
+            "cough",
+            "blood pressure"
+        ]
+    },
+    {
+        "Tonic-clonic (grand mal) seizure": [
+            "confusion",
+            "seizure",
+            "tonic-clonic seizure",
+            "clonic seizure",
+            "headache",
+            "convulsion",
+            "loss of consciousness",
+            "fatigue"
+        ]
+    },
+    {
+        "Temporal lobe seizure": [
+            "confusion",
+            "seizure",
+            "focal seizure",
+            "tonic-clonic seizure",
+            "clonic seizure",
+            "convulsion",
+            "loss of consciousness"
+        ]
+    },
+    {
+        "Separation anxiety disorder": [
+            "anxiety",
+            "headache",
+            "intense anxiety"
+        ]
+    },
+    {
+        "Scrotal masses": [
+            "pain",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Sclerosing mesenteritis": [
+            "enteritis",
+            "pain",
+            "bloating",
+            "diarrhea",
+            "fever",
+            "vomiting"
+        ]
+    },
+    {
+        "Scleroderma": [
+            "pain",
+            "heart failure",
+            "bloating",
+            "diarrhea",
+            "dizziness",
+            "constipation",
+            "blood pressure"
+        ]
+    },
+    {
+        "Sciatica": [
+            "muscle weakness",
+            "pain",
+            "sneezing",
+            "weakness",
+            "shock",
+            "cough"
+        ]
+    },
+    {
+        "Schizophrenia": [
+            "hallucination",
+            "irritability",
+            "agitation"
+        ]
+    },
+    {
+        "Schizoaffective disorder": [
+            "depression",
+            "hallucination"
+        ]
+    },
+    {
+        "Scarlet fever": [
+            "pain",
+            "body ache",
+            "nausea",
+            "rash",
+            "headache",
+            "fever",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Seizures": [
+            "blurred vision",
+            "confusion",
+            "seizure",
+            "thirst",
+            "weakness",
+            "focal seizure",
+            "generalized seizure",
+            "tonic-clonic seizure",
+            "epileptic seizure",
+            "myoclonic seizure",
+            "clonic seizure",
+            "tonic seizure",
+            "atonic seizure",
+            "anxiety",
+            "nausea",
+            "headache",
+            "dizziness",
+            "loss of consciousness"
+        ]
+    },
+    {
+        "Scabies": [
+            "blister",
+            "itching"
+        ]
+    },
+    {
+        "Spontaneous coronary artery dissection (SCAD)": [
+            "pain",
+            "tiredness",
+            "chest pain"
+        ]
+    },
+    {
+        "Scorpion sting": [
+            "pain",
+            "slurred speech",
+            "muscle twitching",
+            "itching",
+            "nausea",
+            "rash",
+            "tachycardia",
+            "allergic reaction",
+            "vomiting",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "Small intestinal bacterial overgrowth (SIBO)": [
+            "pain",
+            "weight loss",
+            "loss of appetite",
+            "bloating",
+            "abdominal pain",
+            "nausea",
+            "diarrhea"
+        ]
+    },
+    {
+        "Sarcoma": [
+            "pain",
+            "weight loss",
+            "abdominal pain",
+            "edema",
+            "coma",
+            "bone pain"
+        ]
+    },
+    {
+        "Seasonal affective disorder (SAD)": [
+            "depression",
+            "weight loss",
+            "tiredness",
+            "weight gain",
+            "anxiety",
+            "insomnia",
+            "irritability",
+            "agitation"
+        ]
+    },
+    {
+        "Spinal cord injury": [
+            "paralysis",
+            "pain",
+            "incoordination",
+            "weakness",
+            "paraplegia",
+            "cough"
+        ]
+    },
+    {
+        "Sacroiliitis": [
+            "pain"
+        ]
+    },
+    {
+        "Urine color": []
+    },
+    {
+        "Urinary tract infection (UTI)": [
+            "pain",
+            "nausea",
+            "fever",
+            "discharge",
+            "high fever",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Urethral stricture": [
+            "pain"
+        ]
+    },
+    {
+        "Sarcoidosis": [
+            "blurred vision",
+            "dry cough",
+            "pain",
+            "weight loss",
+            "arrhythmia",
+            "syncope",
+            "itching",
+            "rash",
+            "palpitation",
+            "edema",
+            "general symptom",
+            "chest pain",
+            "wheezing",
+            "cough",
+            "dyspnea",
+            "eye symptom",
+            "fatigue"
+        ]
+    },
+    {
+        "Salmonella infection": [
+            "nausea",
+            "headache",
+            "diarrhea",
+            "fever",
+            "cramp",
+            "vomiting",
+            "chills"
+        ]
+    },
+    {
+        "Roseola": [
+            "pain",
+            "decreased appetite",
+            "rash",
+            "diarrhea",
+            "fever",
+            "cough",
+            "irritability",
+            "high fever"
+        ]
+    },
+    {
+        "Rosacea": [
+            "flushing",
+            "eye symptom"
+        ]
+    },
+    {
+        "Rotator cuff injury": [
+            "pain",
+            "weakness",
+            "arm weakness"
+        ]
+    },
+    {
+        "Ringworm (body)": []
+    },
+    {
+        "Rickets": [
+            "muscle weakness",
+            "pain",
+            "weakness",
+            "bone pain"
+        ]
+    },
+    {
+        "Restless legs syndrome": [
+            "muscle cramp",
+            "itching",
+            "cramp"
+        ]
+    },
+    {
+        "Uveitis": [
+            "blurred vision",
+            "pain",
+            "light sensitivity"
+        ]
+    },
+    {
+        "Respiratory syncytial virus (RSV)": [
+            "dry cough",
+            "inflammation",
+            "lethargy",
+            "sneezing",
+            "tiredness",
+            "bronchiolitis",
+            "poor feeding",
+            "headache",
+            "cyanosis",
+            "wheezing",
+            "fever",
+            "cough",
+            "irritability",
+            "low-grade fever",
+            "high fever"
+        ]
+    },
+    {
+        "Renal artery stenosis": [
+            "heart failure",
+            "blood pressure",
+            "high blood pressure"
+        ]
+    },
+    {
+        "REM sleep behavior disorder": [
+            "paralysis"
+        ]
+    },
+    {
+        "Rectovaginal fistula": []
+    },
+    {
+        "Ureteral cancer": [
+            "pain",
+            "fatigue"
+        ]
+    },
+    {
+        "Solitary rectal ulcer syndrome": [
+            "bleeding",
+            "pain",
+            "constipation"
+        ]
+    },
+    {
+        "Ringworm (scalp)": [
+            "pain"
+        ]
+    },
+    {
+        "Tinnitus": [
+            "tinnitus"
+        ]
+    },
+    {
+        "Rabies": [
+            "confusion",
+            "paralysis",
+            "salivation",
+            "anxiety",
+            "nausea",
+            "headache",
+            "insomnia",
+            "hallucination",
+            "fever",
+            "vomiting",
+            "hyperactivity",
+            "agitation"
+        ]
+    },
+    {
+        "Rectal prolapse": [
+            "constipation"
+        ]
+    },
+    {
+        "Tachycardia": [
+            "pain",
+            "syncope",
+            "tachycardia",
+            "palpitation",
+            "chest pain",
+            "lightheadedness"
+        ]
+    },
+    {
+        "Raynaud's disease": [
+            "pain"
+        ]
+    },
+    {
+        "Recurrent breast cancer": [
+            "inflammation",
+            "pain",
+            "seizure",
+            "severe headache",
+            "weight loss",
+            "loss of appetite",
+            "headache",
+            "cough",
+            "hip pain",
+            "discharge"
+        ]
+    },
+    {
+        "Radiation enteritis": [
+            "enteritis",
+            "anemia",
+            "nausea",
+            "diarrhea",
+            "cramp",
+            "vomiting"
+        ]
+    }
+]
