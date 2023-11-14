@@ -1,5 +1,5 @@
 
-# python3 -m venv venv ---> to create environment in python no need the 
+# python3 -m venv venvName ---> to create environment in python no need the 
 # pip install scrapy create a venv and install required liberaries
 # venv\scripts\activate.bat ---> to activate it 
 # cd Mayoclinic ---> cd to the upper level folder of project
